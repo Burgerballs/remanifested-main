@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SkyBlueDeath.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FirstDeath0000" x="0" y="0" width="77" height="96"/>
+	<SubTexture name="FirstDeath0001" x="0" y="0" width="77" height="96"/>
+	<SubTexture name="FirstDeath0002" x="77" y="0" width="77" height="96"/>
+	<SubTexture name="FirstDeath0003" x="77" y="0" width="77" height="96"/>
+	<SubTexture name="FirstDeath0004" x="0" y="0" width="77" height="96"/>
+	<SubTexture name="FirstDeath0005" x="0" y="0" width="77" height="96"/>
+	<SubTexture name="FirstDeath0006" x="154" y="0" width="77" height="96"/>
+	<SubTexture name="FirstDeath0007" x="154" y="0" width="77" height="96"/>
+	<SubTexture name="FirstDeath0008" x="231" y="0" width="77" height="96"/>
+	<SubTexture name="FirstDeath0009" x="231" y="0" width="77" height="96"/>
+	<SubTexture name="FirstDeath0010" x="308" y="0" width="77" height="96"/>
+	<SubTexture name="FirstDeath0011" x="308" y="0" width="77" height="96"/>
+	<SubTexture name="FirstDeath0012" x="385" y="0" width="77" height="96"/>
+	<SubTexture name="FirstDeath0013" x="385" y="0" width="77" height="96"/>
+	<SubTexture name="FirstDeath0014" x="0" y="96" width="77" height="96"/>
+	<SubTexture name="FirstDeath0015" x="0" y="96" width="77" height="96"/>
+	<SubTexture name="FirstDeath0016" x="77" y="96" width="77" height="96"/>
+	<SubTexture name="FirstDeath0017" x="77" y="96" width="77" height="96"/>
+	<SubTexture name="RetryConfirm0000" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryConfirm0001" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryConfirm0002" x="154" y="96" width="77" height="16"/>
+	<SubTexture name="RetryConfirm0003" x="154" y="96" width="77" height="16"/>
+	<SubTexture name="RetryConfirm0004" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryConfirm0005" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryConfirm0006" x="154" y="96" width="77" height="16"/>
+	<SubTexture name="RetryConfirm0007" x="154" y="96" width="77" height="16"/>
+	<SubTexture name="RetryConfirm0008" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryConfirm0009" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryConfirm0010" x="154" y="96" width="77" height="16"/>
+	<SubTexture name="RetryConfirm0011" x="154" y="96" width="77" height="16"/>
+	<SubTexture name="RetryConfirm0012" x="154" y="96" width="77" height="16"/>
+	<SubTexture name="RetryConfirm0013" x="154" y="96" width="77" height="16"/>
+	<SubTexture name="RetryConfirm0014" x="154" y="96" width="77" height="16"/>
+	<SubTexture name="RetryConfirm0015" x="154" y="96" width="77" height="16"/>
+	<SubTexture name="RetryConfirm0016" x="154" y="96" width="77" height="16"/>
+	<SubTexture name="RetryConfirm0017" x="154" y="96" width="77" height="16"/>
+	<SubTexture name="RetryLoop0000" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryLoop0001" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryLoop0002" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryLoop0003" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryLoop0004" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryLoop0005" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryLoop0006" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryLoop0007" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryLoop0008" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryLoop0009" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryLoop0010" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryLoop0011" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryLoop0012" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryLoop0013" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryLoop0014" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryLoop0015" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryLoop0016" x="231" y="96" width="77" height="16"/>
+	<SubTexture name="RetryLoop0017" x="231" y="96" width="77" height="16"/>
+</TextureAtlas>

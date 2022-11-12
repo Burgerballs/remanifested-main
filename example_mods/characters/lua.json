@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "bash2",
+			"indices": [],
+			"name": "LuaTypeRight"
+		},
+		{
+			"offsets": [
+				0,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "bash1",
+			"indices": [],
+			"name": "LuaTypeLeft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "LuaIdle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LuaLeft"
+		},
+		{
+			"offsets": [
+				0,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "LuaUp"
+		},
+		{
+			"offsets": [
+				0,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "LuaDown"
+		},
+		{
+			"offsets": [
+				1,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "LuaRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wits/Lua_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "lua",
+	"flip_x": false,
+	"healthbar_colors": [
+		4,
+		217,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

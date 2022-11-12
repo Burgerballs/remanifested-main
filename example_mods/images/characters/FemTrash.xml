@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FemTrash.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Femidle0000" x="10" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0001" x="10" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0002" x="380" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0003" x="380" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0004" x="750" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0005" x="750" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0006" x="1120" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0007" x="1120" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0008" x="1490" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0009" x="1490" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0010" x="1490" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0011" x="1490" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0012" x="1490" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0013" x="10" y="422" width="360" height="402"/>
+	<SubTexture name="Femidle0014" x="10" y="422" width="360" height="402"/>
+	<SubTexture name="Femidle0015" x="380" y="422" width="360" height="402"/>
+	<SubTexture name="Femidle0016" x="380" y="422" width="360" height="402"/>
+	<SubTexture name="Femidle0017" x="750" y="422" width="360" height="402"/>
+	<SubTexture name="Femidle0018" x="750" y="422" width="360" height="402"/>
+	<SubTexture name="Femidle0019" x="1120" y="422" width="360" height="402"/>
+	<SubTexture name="Femidle0020" x="1120" y="422" width="360" height="402"/>
+	<SubTexture name="Femidle0021" x="1120" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0022" x="1120" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0023" x="1120" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0024" x="1120" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0025" x="1120" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0026" x="1120" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0027" x="1120" y="10" width="360" height="402"/>
+	<SubTexture name="Femidle0028" x="1490" y="422" width="360" height="402"/>
+	<SubTexture name="Femidle0029" x="1490" y="422" width="360" height="402"/>
+	<SubTexture name="Femidle0030" x="10" y="834" width="360" height="402"/>
+	<SubTexture name="Trumpet10000" x="380" y="834" width="343" height="389"/>
+	<SubTexture name="Trumpet10001" x="733" y="834" width="343" height="389"/>
+	<SubTexture name="Trumpet10002" x="1086" y="834" width="343" height="389"/>
+	<SubTexture name="Trumpet10003" x="1086" y="834" width="343" height="389"/>
+	<SubTexture name="Trumpet10004" x="1086" y="834" width="343" height="389"/>
+	<SubTexture name="Trumpet10005" x="1086" y="834" width="343" height="389"/>
+	<SubTexture name="Trumpet10006" x="1086" y="834" width="343" height="389"/>
+	<SubTexture name="Trumpet10007" x="1086" y="834" width="343" height="389"/>
+	<SubTexture name="Trumpet10008" x="1086" y="834" width="343" height="389"/>
+	<SubTexture name="Trumpet10009" x="1086" y="834" width="343" height="389"/>
+	<SubTexture name="Trumpet10010" x="1086" y="834" width="343" height="389"/>
+	<SubTexture name="Trumpet10011" x="1086" y="834" width="343" height="389"/>
+	<SubTexture name="Trumpet10012" x="1086" y="834" width="343" height="389"/>
+	<SubTexture name="Trumpet10013" x="1086" y="834" width="343" height="389"/>
+	<SubTexture name="Trumpet20000" x="1439" y="834" width="340" height="385"/>
+	<SubTexture name="Trumpet20001" x="10" y="1246" width="340" height="385"/>
+	<SubTexture name="Trumpet20002" x="360" y="1246" width="340" height="385"/>
+	<SubTexture name="Trumpet20003" x="360" y="1246" width="340" height="385"/>
+	<SubTexture name="Trumpet20004" x="360" y="1246" width="340" height="385"/>
+	<SubTexture name="Trumpet20005" x="360" y="1246" width="340" height="385"/>
+	<SubTexture name="Trumpet20006" x="360" y="1246" width="340" height="385"/>
+	<SubTexture name="Trumpet20007" x="360" y="1246" width="340" height="385"/>
+	<SubTexture name="Trumpet20008" x="360" y="1246" width="340" height="385"/>
+	<SubTexture name="Trumpet20009" x="360" y="1246" width="340" height="385"/>
+	<SubTexture name="Trumpet20010" x="360" y="1246" width="340" height="385"/>
+	<SubTexture name="Trumpet20011" x="360" y="1246" width="340" height="385"/>
+	<SubTexture name="Trumpet20012" x="360" y="1246" width="340" height="385"/>
+	<SubTexture name="Trumpet20013" x="360" y="1246" width="340" height="385"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				404,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GFIdle"
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GFLeft"
+		},
+		{
+			"offsets": [
+				0,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GFDown"
+		},
+		{
+			"offsets": [
+				7,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GFUp"
+		},
+		{
+			"offsets": [
+				-23,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GFRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/whitewoman",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "plgf",
+	"flip_x": true,
+	"healthbar_colors": [
+		238,
+		21,
+		54
+	],
+	"camera_position": [
+		0,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

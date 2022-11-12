@@ -1,0 +1,50 @@
+{
+	"storyName": "weeks",
+	"difficulties": "Easy, Normal, Hard, High",
+	"hideFreeplay": false,
+	"weekBackground": "shift",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Wife-forever",
+			"sky",
+			[
+				186,
+				113,
+				253
+			]
+		],
+		[
+			"Sky",
+			"sky",
+			[
+				186,
+				113,
+				253
+			]
+		],
+		[
+			"Manifest",
+			"manifest",
+			[
+				26,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"sky",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "weeks"
+}

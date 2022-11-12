@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-14,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gametoons sky idle"
+		},
+		{
+			"offsets": [
+				18,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gametoons sky right"
+		},
+		{
+			"offsets": [
+				-19,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gametoons sky left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gametoons sky down"
+		},
+		{
+			"offsets": [
+				-27,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gametoons sky up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gametoons_sky_angry",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sky",
+	"flip_x": false,
+	"healthbar_colors": [
+		156,
+		110,
+		204
+	],
+	"camera_position": [
+		120,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

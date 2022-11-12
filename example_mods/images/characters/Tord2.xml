@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tord2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TordHarpoonShot0000" x="0" y="0" width="1199" height="1445" frameX="-153" frameY="0" frameWidth="1489" frameHeight="1445"/>
+	<SubTexture name="TordHarpoonShot0001" x="1199" y="0" width="1489" height="1007" frameX="0" frameY="0" frameWidth="1489" frameHeight="1445"/>
+	<SubTexture name="TordHarpoonShot0002" x="2688" y="0" width="1489" height="1007" frameX="0" frameY="0" frameWidth="1489" frameHeight="1445"/>
+	<SubTexture name="TordHarpoonShot0003" x="4177" y="0" width="1458" height="1007" frameX="0" frameY="0" frameWidth="1489" frameHeight="1445"/>
+	<SubTexture name="TordHarpoonShot0004" x="5635" y="0" width="1458" height="1007" frameX="0" frameY="0" frameWidth="1489" frameHeight="1445"/>
+	<SubTexture name="TordHarpoonShot0005" x="0" y="1445" width="1466" height="1007" frameX="0" frameY="0" frameWidth="1489" frameHeight="1445"/>
+	<SubTexture name="TordOhNo0000" x="1466" y="1445" width="1466" height="1007"/>
+	<SubTexture name="TordOhNo0001" x="2932" y="1445" width="1466" height="1007"/>
+	<SubTexture name="TordOhNo0002" x="4398" y="1445" width="1466" height="1007"/>
+	<SubTexture name="TordOhNo0003" x="5864" y="1445" width="1466" height="1007"/>
+	<SubTexture name="TordOhNo0004" x="0" y="2452" width="1466" height="1007"/>
+	<SubTexture name="TordOhNo0005" x="2932" y="1445" width="1466" height="1007"/>
+	<SubTexture name="TordOhNo0006" x="4398" y="1445" width="1466" height="1007"/>
+	<SubTexture name="TordOhNo0007" x="1466" y="2452" width="1466" height="1007"/>
+	<SubTexture name="TordOhNo0008" x="2932" y="2452" width="1466" height="1007"/>
+	<SubTexture name="TordOhNo0009" x="4398" y="2452" width="1466" height="1007"/>
+	<SubTexture name="TordOhNo0010" x="5864" y="2452" width="1466" height="1007"/>
+	<SubTexture name="TordOhNo0011" x="5864" y="1445" width="1466" height="1007"/>
+	<SubTexture name="TordOhNo0012" x="0" y="2452" width="1466" height="1007"/>
+	<SubTexture name="TordPissed0000" x="0" y="3459" width="1352" height="1007"/>
+	<SubTexture name="TordPissed0001" x="0" y="3459" width="1352" height="1007"/>
+	<SubTexture name="TordPissed0002" x="1352" y="3459" width="1352" height="1007"/>
+	<SubTexture name="TordPissed0003" x="1352" y="3459" width="1352" height="1007"/>
+	<SubTexture name="TordPissed0004" x="2704" y="3459" width="1352" height="1007"/>
+	<SubTexture name="TordPissed0005" x="2704" y="3459" width="1352" height="1007"/>
+	<SubTexture name="TordPissed0006" x="4056" y="3459" width="1352" height="1007"/>
+	<SubTexture name="TordPissed0007" x="4056" y="3459" width="1352" height="1007"/>
+	<SubTexture name="TordPissed0008" x="5408" y="3459" width="1352" height="1007"/>
+	<SubTexture name="TordPissed0009" x="5408" y="3459" width="1352" height="1007"/>
+</TextureAtlas>

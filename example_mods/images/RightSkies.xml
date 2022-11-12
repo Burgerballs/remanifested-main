@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RightSkies.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RightSkies0000" x="10" y="10" width="369" height="478"/>
+	<SubTexture name="RightSkies0001" x="10" y="10" width="369" height="478"/>
+	<SubTexture name="RightSkies0002" x="389" y="10" width="369" height="478"/>
+	<SubTexture name="RightSkies0003" x="389" y="10" width="369" height="478"/>
+	<SubTexture name="RightSkies0004" x="10" y="498" width="369" height="478"/>
+	<SubTexture name="RightSkies0005" x="10" y="498" width="369" height="478"/>
+	<SubTexture name="RightSkies0006" x="389" y="498" width="369" height="478"/>
+	<SubTexture name="RightSkies0007" x="389" y="498" width="369" height="478"/>
+	<SubTexture name="RightSkies0008" x="389" y="498" width="369" height="478"/>
+	<SubTexture name="RightSkies0009" x="389" y="498" width="369" height="478"/>
+	<SubTexture name="RightSkies0010" x="389" y="498" width="369" height="478"/>
+	<SubTexture name="RightSkies0011" x="389" y="498" width="369" height="478"/>
+	<SubTexture name="RightSkies0012" x="389" y="498" width="369" height="478"/>
+	<SubTexture name="RightSkies0013" x="389" y="498" width="369" height="478"/>
+</TextureAtlas>

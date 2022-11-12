@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IdleSky",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				-78
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SkyUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				152,
+				-129
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeftSky",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-145
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SkyDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				84,
+				-78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "SkyUp"
+		},
+		{
+			"offsets": [
+				152,
+				-129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "LeftSky"
+		},
+		{
+			"offsets": [
+				120,
+				-145
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "SkyDown"
+		},
+		{
+			"offsets": [
+				100,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SkyRight"
+		},
+		{
+			"offsets": [
+				100,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "SkyRight"
+		},
+		{
+			"offsets": [
+				110,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "IdleSky"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MetalSkySprites",
+	"position": [
+		80,
+		-20
+	],
+	"healthicon": "bluesky",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-230,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

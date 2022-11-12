@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Drawings.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="10000" x="10" y="10" width="431" height="255"/>
+	<SubTexture name="10001" x="10" y="10" width="431" height="255"/>
+	<SubTexture name="10002" x="451" y="10" width="431" height="255"/>
+	<SubTexture name="10003" x="451" y="10" width="431" height="255"/>
+	<SubTexture name="20000" x="892" y="10" width="403" height="397"/>
+	<SubTexture name="20001" x="892" y="10" width="403" height="397"/>
+	<SubTexture name="20002" x="1305" y="10" width="403" height="397"/>
+	<SubTexture name="20003" x="1305" y="10" width="403" height="397"/>
+	<SubTexture name="30000" x="10" y="417" width="501" height="359"/>
+	<SubTexture name="30001" x="10" y="417" width="501" height="359"/>
+	<SubTexture name="30002" x="521" y="417" width="501" height="359"/>
+	<SubTexture name="30003" x="521" y="417" width="501" height="359"/>
+	<SubTexture name="40000" x="1032" y="417" width="641" height="185"/>
+	<SubTexture name="40001" x="1032" y="417" width="641" height="185"/>
+	<SubTexture name="40002" x="10" y="786" width="641" height="185"/>
+	<SubTexture name="40003" x="10" y="786" width="641" height="185"/>
+</TextureAtlas>

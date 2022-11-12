@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				40
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "idle-fire",
+			"fps": 10,
+			"name": "fireidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-9
+			],
+			"anim": "singDOWN-fire",
+			"fps": 10,
+			"name": "firedown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-fire",
+			"fps": 10,
+			"name": "fireright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-fire",
+			"fps": 10,
+			"name": "fireleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP-fire",
+			"fps": 10,
+			"name": "fireup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 10,
+			"name": "altright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "singUP-alt",
+			"fps": 10,
+			"name": "altup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singLEFT-alt",
+			"fps": 10,
+			"name": "altleft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				-10
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "altidle"
+		},
+		{
+			"offsets": [
+				-10,
+				-10
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "altdown"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/PixelBlueunderground",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		390,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

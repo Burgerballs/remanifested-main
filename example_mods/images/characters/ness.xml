@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ness.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="combo break0000" x="10" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0001" x="10" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0002" x="498" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0003" x="498" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0004" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0005" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0006" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0007" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0008" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0009" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0010" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0011" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0012" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0013" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0014" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0015" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0016" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0017" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0018" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0019" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0020" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0021" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0022" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0023" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0024" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0025" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0026" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0027" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0028" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0029" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0030" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0031" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0032" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0033" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0034" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0035" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0036" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0037" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0038" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0039" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0040" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0041" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0042" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0043" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0044" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0045" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0046" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0047" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0048" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0049" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0050" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0051" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0052" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0053" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0054" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0055" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0056" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0057" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0058" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0059" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0060" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0061" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0062" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0063" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0064" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0065" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0066" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0067" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0068" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0069" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0070" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0071" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0072" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0073" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0074" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0075" x="10" y="483" width="478" height="463"/>
+	<SubTexture name="combo break0076" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0077" x="986" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0078" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="combo break0079" x="1474" y="10" width="478" height="463"/>
+	<SubTexture name="idle0000" x="498" y="483" width="491" height="466"/>
+	<SubTexture name="idle0001" x="498" y="483" width="491" height="466"/>
+	<SubTexture name="idle0002" x="999" y="483" width="491" height="466"/>
+	<SubTexture name="idle0003" x="999" y="483" width="491" height="466"/>
+	<SubTexture name="idle0004" x="1500" y="483" width="491" height="466"/>
+	<SubTexture name="idle0005" x="1500" y="483" width="491" height="466"/>
+	<SubTexture name="idle0006" x="10" y="959" width="491" height="466"/>
+	<SubTexture name="idle0007" x="10" y="959" width="491" height="466"/>
+	<SubTexture name="idle0008" x="10" y="959" width="491" height="466"/>
+	<SubTexture name="idle0009" x="10" y="959" width="491" height="466"/>
+	<SubTexture name="idle0010" x="10" y="959" width="491" height="466"/>
+	<SubTexture name="idle0011" x="10" y="959" width="491" height="466"/>
+	<SubTexture name="idle0012" x="10" y="959" width="491" height="466"/>
+	<SubTexture name="idle0013" x="10" y="959" width="491" height="466"/>
+</TextureAtlas>

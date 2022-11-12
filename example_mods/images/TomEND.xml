@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TomEND.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tom Running In0000" x="0" y="0" width="341" height="369" frameX="-73" frameY="-31" frameWidth="414" frameHeight="434"/>
+	<SubTexture name="Tom Running In0001" x="0" y="0" width="341" height="369" frameX="-73" frameY="-31" frameWidth="414" frameHeight="434"/>
+	<SubTexture name="Tom Running In0002" x="341" y="0" width="372" height="298" frameX="0" frameY="-123" frameWidth="414" frameHeight="434"/>
+	<SubTexture name="Tom Running In0003" x="341" y="0" width="372" height="298" frameX="0" frameY="-123" frameWidth="414" frameHeight="434"/>
+	<SubTexture name="Tom Running In0004" x="713" y="0" width="347" height="311" frameX="-9" frameY="-123" frameWidth="414" frameHeight="434"/>
+	<SubTexture name="Tom Running In0005" x="713" y="0" width="347" height="311" frameX="-9" frameY="-123" frameWidth="414" frameHeight="434"/>
+	<SubTexture name="Tom Running In0006" x="1060" y="0" width="347" height="328" frameX="-9" frameY="-106" frameWidth="414" frameHeight="434"/>
+	<SubTexture name="Tom Running In0007" x="1060" y="0" width="347" height="328" frameX="-9" frameY="-106" frameWidth="414" frameHeight="434"/>
+	<SubTexture name="Tom Running In0008" x="1407" y="0" width="248" height="420" frameX="-112" frameY="0" frameWidth="414" frameHeight="434"/>
+	<SubTexture name="Tom Running In0009" x="1407" y="0" width="248" height="420" frameX="-112" frameY="0" frameWidth="414" frameHeight="434"/>
+	<SubTexture name="Tom Running In0010" x="1655" y="0" width="248" height="405" frameX="-112" frameY="-15" frameWidth="414" frameHeight="434"/>
+	<SubTexture name="Tom Running In0011" x="1655" y="0" width="248" height="405" frameX="-112" frameY="-15" frameWidth="414" frameHeight="434"/>
+	<SubTexture name="Tom Running In0012" x="1903" y="0" width="248" height="399" frameX="-112" frameY="-21" frameWidth="414" frameHeight="434"/>
+	<SubTexture name="Tom Running In0013" x="1903" y="0" width="248" height="399" frameX="-112" frameY="-21" frameWidth="414" frameHeight="434"/>
+	<SubTexture name="TomHarpoonIdle0000" x="2151" y="0" width="588" height="683"/>
+	<SubTexture name="TomHarpoonIdle0001" x="2151" y="0" width="588" height="683"/>
+	<SubTexture name="TomHarpoonIdle0002" x="2739" y="0" width="588" height="683"/>
+	<SubTexture name="TomHarpoonIdle0003" x="2739" y="0" width="588" height="683"/>
+	<SubTexture name="TomHarpoonIdle0004" x="2151" y="0" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0000" x="2151" y="0" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0001" x="2151" y="0" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0002" x="2739" y="0" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0003" x="2739" y="0" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0004" x="2151" y="0" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0005" x="3327" y="0" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0006" x="0" y="683" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0007" x="588" y="683" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0008" x="1176" y="683" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0009" x="1764" y="683" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0010" x="2352" y="683" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0011" x="2940" y="683" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0012" x="0" y="1366" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0013" x="0" y="1366" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0014" x="588" y="1366" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0015" x="588" y="1366" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0016" x="1176" y="1366" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0017" x="1176" y="1366" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0018" x="1764" y="1366" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0019" x="1764" y="1366" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0020" x="2352" y="1366" width="588" height="683"/>
+	<SubTexture name="TomHarpoonLine0021" x="2352" y="1366" width="588" height="683"/>
+</TextureAtlas>

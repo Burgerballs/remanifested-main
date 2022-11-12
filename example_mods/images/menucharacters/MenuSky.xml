@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MenuSky.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MenuSky0000" x="10" y="10" width="310" height="519"/>
+	<SubTexture name="MenuSky0001" x="330" y="10" width="310" height="519"/>
+	<SubTexture name="MenuSky0002" x="650" y="10" width="310" height="519"/>
+	<SubTexture name="MenuSky0003" x="970" y="10" width="310" height="519"/>
+	<SubTexture name="MenuSky0004" x="1290" y="10" width="310" height="519"/>
+	<SubTexture name="MenuSky0005" x="1610" y="10" width="310" height="519"/>
+	<SubTexture name="MenuSky0006" x="10" y="539" width="310" height="519"/>
+	<SubTexture name="MenuSky0007" x="330" y="539" width="310" height="519"/>
+	<SubTexture name="MenuSky0008" x="650" y="539" width="310" height="519"/>
+	<SubTexture name="MenuSky0009" x="970" y="539" width="310" height="519"/>
+	<SubTexture name="MenuSky0010" x="1290" y="539" width="310" height="519"/>
+	<SubTexture name="MenuSky0011" x="1610" y="539" width="310" height="519"/>
+	<SubTexture name="MenuSky0012" x="10" y="1068" width="310" height="519"/>
+	<SubTexture name="MenuSky0013" x="330" y="1068" width="310" height="519"/>
+	<SubTexture name="MenuSky0014" x="650" y="1068" width="310" height="519"/>
+	<SubTexture name="MenuSky0015" x="970" y="1068" width="310" height="519"/>
+</TextureAtlas>

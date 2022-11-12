@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SKS_SPRITES.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sk 20000" x="10" y="10" width="824" height="951"/>
+	<SubTexture name="sk 20001" x="10" y="10" width="824" height="951"/>
+	<SubTexture name="sk 20002" x="844" y="10" width="824" height="951"/>
+	<SubTexture name="sk 20003" x="844" y="10" width="824" height="951"/>
+	<SubTexture name="sk 20004" x="1678" y="10" width="824" height="951"/>
+	<SubTexture name="sk 20005" x="1678" y="10" width="824" height="951"/>
+	<SubTexture name="sk 20006" x="2512" y="10" width="824" height="951"/>
+	<SubTexture name="sk 20007" x="2512" y="10" width="824" height="951"/>
+	<SubTexture name="sk 20008" x="3346" y="10" width="824" height="951"/>
+	<SubTexture name="sk 20009" x="3346" y="10" width="824" height="951"/>
+	<SubTexture name="sk 20010" x="3346" y="10" width="824" height="951"/>
+	<SubTexture name="sk 20011" x="3346" y="10" width="824" height="951"/>
+	<SubTexture name="sk 20012" x="3346" y="10" width="824" height="951"/>
+	<SubTexture name="sk 20013" x="3346" y="10" width="824" height="951"/>
+	<SubTexture name="sk 20014" x="3346" y="10" width="824" height="951"/>
+	<SubTexture name="sk 20015" x="3346" y="10" width="824" height="951"/>
+	<SubTexture name="sk 2 down0000" x="4180" y="10" width="824" height="840"/>
+	<SubTexture name="sk 2 down0001" x="4180" y="10" width="824" height="840"/>
+	<SubTexture name="sk 2 down0002" x="5014" y="10" width="824" height="840"/>
+	<SubTexture name="sk 2 down0003" x="5014" y="10" width="824" height="840"/>
+	<SubTexture name="sk 2 down0004" x="5014" y="10" width="824" height="840"/>
+	<SubTexture name="sk 2 down0005" x="5014" y="10" width="824" height="840"/>
+	<SubTexture name="sk 2 down0006" x="5014" y="10" width="824" height="840"/>
+	<SubTexture name="sk 2 down0007" x="5014" y="10" width="824" height="840"/>
+	<SubTexture name="sk 2 down miss0000" x="5848" y="10" width="824" height="840"/>
+	<SubTexture name="sk 2 down miss0001" x="5848" y="10" width="824" height="840"/>
+	<SubTexture name="sk 2 down miss0002" x="6682" y="10" width="824" height="840"/>
+	<SubTexture name="sk 2 down miss0003" x="6682" y="10" width="824" height="840"/>
+	<SubTexture name="sk 2 down miss0004" x="6682" y="10" width="824" height="840"/>
+	<SubTexture name="sk 2 down miss0005" x="6682" y="10" width="824" height="840"/>
+	<SubTexture name="sk 2 down miss0006" x="6682" y="10" width="824" height="840"/>
+	<SubTexture name="sk 2 down miss0007" x="6682" y="10" width="824" height="840"/>
+	<SubTexture name="sk 2 left0000" x="10" y="971" width="853" height="942"/>
+	<SubTexture name="sk 2 left0001" x="10" y="971" width="853" height="942"/>
+	<SubTexture name="sk 2 left0002" x="873" y="971" width="853" height="942"/>
+	<SubTexture name="sk 2 left0003" x="873" y="971" width="853" height="942"/>
+	<SubTexture name="sk 2 left0004" x="873" y="971" width="853" height="942"/>
+	<SubTexture name="sk 2 left0005" x="873" y="971" width="853" height="942"/>
+	<SubTexture name="sk 2 left0006" x="873" y="971" width="853" height="942"/>
+	<SubTexture name="sk 2 left0007" x="873" y="971" width="853" height="942"/>
+	<SubTexture name="sk 2 left miss0000" x="1736" y="971" width="853" height="942"/>
+	<SubTexture name="sk 2 left miss0001" x="1736" y="971" width="853" height="942"/>
+	<SubTexture name="sk 2 left miss0002" x="2599" y="971" width="853" height="942"/>
+	<SubTexture name="sk 2 left miss0003" x="2599" y="971" width="853" height="942"/>
+	<SubTexture name="sk 2 left miss0004" x="2599" y="971" width="853" height="942"/>
+	<SubTexture name="sk 2 left miss0005" x="2599" y="971" width="853" height="942"/>
+	<SubTexture name="sk 2 left miss0006" x="2599" y="971" width="853" height="942"/>
+	<SubTexture name="sk 2 left miss0007" x="2599" y="971" width="853" height="942"/>
+	<SubTexture name="sk 2 right0000" x="3462" y="971" width="916" height="976"/>
+	<SubTexture name="sk 2 right0001" x="3462" y="971" width="916" height="976"/>
+	<SubTexture name="sk 2 right0002" x="4388" y="971" width="916" height="976"/>
+	<SubTexture name="sk 2 right0003" x="4388" y="971" width="916" height="976"/>
+	<SubTexture name="sk 2 right0004" x="4388" y="971" width="916" height="976"/>
+	<SubTexture name="sk 2 right0005" x="4388" y="971" width="916" height="976"/>
+	<SubTexture name="sk 2 right0006" x="4388" y="971" width="916" height="976"/>
+	<SubTexture name="sk 2 right0007" x="4388" y="971" width="916" height="976"/>
+	<SubTexture name="sk 2 right miss0000" x="5314" y="971" width="916" height="976"/>
+	<SubTexture name="sk 2 right miss0001" x="5314" y="971" width="916" height="976"/>
+	<SubTexture name="sk 2 right miss0002" x="6240" y="971" width="916" height="976"/>
+	<SubTexture name="sk 2 right miss0003" x="6240" y="971" width="916" height="976"/>
+	<SubTexture name="sk 2 right miss0004" x="6240" y="971" width="916" height="976"/>
+	<SubTexture name="sk 2 right miss0005" x="6240" y="971" width="916" height="976"/>
+	<SubTexture name="sk 2 right miss0006" x="6240" y="971" width="916" height="976"/>
+	<SubTexture name="sk 2 right miss0007" x="6240" y="971" width="916" height="976"/>
+	<SubTexture name="sk 2 up0000" x="7166" y="971" width="831" height="951"/>
+	<SubTexture name="sk 2 up0001" x="7166" y="971" width="831" height="951"/>
+	<SubTexture name="sk 2 up0002" x="10" y="1957" width="831" height="951"/>
+	<SubTexture name="sk 2 up0003" x="10" y="1957" width="831" height="951"/>
+	<SubTexture name="sk 2 up0004" x="10" y="1957" width="831" height="951"/>
+	<SubTexture name="sk 2 up0005" x="10" y="1957" width="831" height="951"/>
+	<SubTexture name="sk 2 up0006" x="10" y="1957" width="831" height="951"/>
+	<SubTexture name="sk 2 up0007" x="10" y="1957" width="831" height="951"/>
+	<SubTexture name="sk 2 up miss0000" x="851" y="1957" width="831" height="951"/>
+	<SubTexture name="sk 2 up miss0001" x="851" y="1957" width="831" height="951"/>
+	<SubTexture name="sk 2 up miss0002" x="1692" y="1957" width="831" height="951"/>
+	<SubTexture name="sk 2 up miss0003" x="1692" y="1957" width="831" height="951"/>
+	<SubTexture name="sk 2 up miss0004" x="1692" y="1957" width="831" height="951"/>
+	<SubTexture name="sk 2 up miss0005" x="1692" y="1957" width="831" height="951"/>
+	<SubTexture name="sk 2 up miss0006" x="1692" y="1957" width="831" height="951"/>
+	<SubTexture name="sk 2 up miss0007" x="1692" y="1957" width="831" height="951"/>
+	<SubTexture name="sk death caccept0000" x="2533" y="1957" width="824" height="951"/>
+	<SubTexture name="sk death caccept0001" x="3367" y="1957" width="824" height="951"/>
+	<SubTexture name="sk death caccept0002" x="4201" y="1957" width="824" height="951"/>
+	<SubTexture name="sk death caccept0003" x="5035" y="1957" width="824" height="951"/>
+	<SubTexture name="sk death caccept0004" x="5035" y="1957" width="824" height="951"/>
+	<SubTexture name="sk death caccept0005" x="5035" y="1957" width="824" height="951"/>
+	<SubTexture name="sk death caccept0006" x="5035" y="1957" width="824" height="951"/>
+	<SubTexture name="sk death caccept0007" x="5035" y="1957" width="824" height="951"/>
+	<SubTexture name="sk death caccept0008" x="5035" y="1957" width="824" height="951"/>
+	<SubTexture name="sk death caccept0009" x="5035" y="1957" width="824" height="951"/>
+	<SubTexture name="sk death caccept0010" x="5035" y="1957" width="824" height="951"/>
+	<SubTexture name="sk death caccept0011" x="5869" y="1957" width="824" height="951"/>
+	<SubTexture name="sk death caccept0012" x="5869" y="1957" width="824" height="951"/>
+	<SubTexture name="sk death caccept0013" x="5869" y="1957" width="824" height="951"/>
+	<SubTexture name="sk death caccept0014" x="6703" y="1957" width="824" height="951"/>
+	<SubTexture name="sk death caccept0015" x="6703" y="1957" width="824" height="951"/>
+	<SubTexture name="sk death caccept0016" x="10" y="2918" width="824" height="951"/>
+	<SubTexture name="sk death caccept0017" x="844" y="2918" width="824" height="951"/>
+	<SubTexture name="sk death caccept0018" x="1678" y="2918" width="824" height="951"/>
+	<SubTexture name="sk death caccept0019" x="2512" y="2918" width="824" height="951"/>
+	<SubTexture name="sk death caccept0020" x="3346" y="2918" width="824" height="951"/>
+	<SubTexture name="sk death caccept0021" x="4180" y="2918" width="824" height="951"/>
+	<SubTexture name="sk death caccept0022" x="5014" y="2918" width="824" height="951"/>
+	<SubTexture name="sk death caccept0023" x="5848" y="2918" width="824" height="951"/>
+	<SubTexture name="sk death caccept0024" x="6682" y="2918" width="824" height="951"/>
+	<SubTexture name="sk death caccept0025" x="6682" y="2918" width="824" height="951"/>
+	<SubTexture name="sk death caccept0026" x="6682" y="2918" width="824" height="951"/>
+	<SubTexture name="sk death caccept0027" x="6682" y="2918" width="824" height="951"/>
+	<SubTexture name="sk death caccept0028" x="6682" y="2918" width="824" height="951"/>
+	<SubTexture name="sk death caccept0029" x="6682" y="2918" width="824" height="951"/>
+	<SubTexture name="sk death caccept0030" x="6682" y="2918" width="824" height="951"/>
+	<SubTexture name="sk death caccept0031" x="6682" y="2918" width="824" height="951"/>
+	<SubTexture name="sk death caccept0032" x="6682" y="2918" width="824" height="951"/>
+	<SubTexture name="sk death loop0000" x="10" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0001" x="10" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0002" x="844" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0003" x="844" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0004" x="1678" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0005" x="1678" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0006" x="2512" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0007" x="2512" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0008" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0009" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0010" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0011" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0012" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0013" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0014" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0015" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0016" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0017" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0018" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0019" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0020" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0021" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0022" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0023" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0024" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0025" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0026" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0027" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0028" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0029" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0030" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0031" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0032" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk death loop0033" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk dies0000" x="4180" y="3879" width="824" height="951"/>
+	<SubTexture name="sk dies0001" x="5014" y="3879" width="824" height="951"/>
+	<SubTexture name="sk dies0002" x="5848" y="3879" width="824" height="951"/>
+	<SubTexture name="sk dies0003" x="6682" y="3879" width="824" height="951"/>
+	<SubTexture name="sk dies0004" x="6682" y="3879" width="824" height="951"/>
+	<SubTexture name="sk dies0005" x="10" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0006" x="10" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0007" x="10" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0008" x="10" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0009" x="10" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0010" x="10" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0011" x="10" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0012" x="10" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0013" x="10" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0014" x="10" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0015" x="844" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0016" x="844" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0017" x="844" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0018" x="1678" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0019" x="1678" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0020" x="2512" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0021" x="2512" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0022" x="2512" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0023" x="2512" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0024" x="3346" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0025" x="1678" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0026" x="1678" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0027" x="844" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0028" x="844" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0029" x="844" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0030" x="844" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0031" x="10" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0032" x="10" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0033" x="10" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0034" x="4180" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0035" x="5014" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0036" x="5848" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0037" x="6682" y="4840" width="824" height="951"/>
+	<SubTexture name="sk dies0038" x="10" y="5801" width="824" height="951"/>
+	<SubTexture name="sk dies0039" x="844" y="5801" width="824" height="951"/>
+	<SubTexture name="sk dies0040" x="1678" y="5801" width="824" height="951"/>
+	<SubTexture name="sk dies0041" x="2512" y="5801" width="824" height="951"/>
+	<SubTexture name="sk dies0042" x="3346" y="5801" width="824" height="951"/>
+	<SubTexture name="sk dies0043" x="4180" y="5801" width="824" height="951"/>
+	<SubTexture name="sk dies0044" x="5014" y="5801" width="824" height="951"/>
+	<SubTexture name="sk dies0045" x="5848" y="5801" width="824" height="951"/>
+	<SubTexture name="sk dies0046" x="6682" y="5801" width="824" height="951"/>
+	<SubTexture name="sk dies0047" x="10" y="6762" width="824" height="951"/>
+	<SubTexture name="sk dies0048" x="844" y="6762" width="824" height="951"/>
+	<SubTexture name="sk dies0049" x="1678" y="6762" width="824" height="951"/>
+	<SubTexture name="sk dies0050" x="2512" y="6762" width="824" height="951"/>
+	<SubTexture name="sk dies0051" x="3346" y="6762" width="824" height="951"/>
+	<SubTexture name="sk dies0052" x="4180" y="6762" width="824" height="951"/>
+	<SubTexture name="sk dies0053" x="5014" y="6762" width="824" height="951"/>
+	<SubTexture name="sk dies0054" x="5848" y="6762" width="824" height="951"/>
+	<SubTexture name="sk dies0055" x="6682" y="6762" width="824" height="951"/>
+	<SubTexture name="sk dies0056" x="3346" y="3879" width="824" height="951"/>
+	<SubTexture name="sk dies0057" x="3346" y="3879" width="824" height="951"/>
+</TextureAtlas>

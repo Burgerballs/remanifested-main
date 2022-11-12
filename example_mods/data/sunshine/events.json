@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "tails",
+		"player1": "metalgf",
+		"player2": "tails doll",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"GF Death",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Change Character",
+						"1",
+						"tails doll alt"
+					]
+				]
+			],
+			[
+				122857.142857143,
+				[
+					[
+						"Change Character",
+						"1",
+						"tails doll"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 210,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "sunshine"
+	}
+}

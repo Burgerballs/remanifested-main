@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ManifestMetalSky.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="10" y="10" width="385" height="689"/>
+	<SubTexture name="Idle0001" x="405" y="10" width="385" height="689"/>
+	<SubTexture name="Idle0002" x="800" y="10" width="385" height="689"/>
+	<SubTexture name="Idle0003" x="1195" y="10" width="385" height="689"/>
+	<SubTexture name="Idle0004" x="1590" y="10" width="385" height="689"/>
+	<SubTexture name="Idle0005" x="1590" y="10" width="385" height="689"/>
+	<SubTexture name="Idle0006" x="1590" y="10" width="385" height="689"/>
+	<SubTexture name="Idle0007" x="1590" y="10" width="385" height="689"/>
+	<SubTexture name="Idle0008" x="1590" y="10" width="385" height="689"/>
+	<SubTexture name="Idle0009" x="1590" y="10" width="385" height="689"/>
+	<SubTexture name="Idle0010" x="1590" y="10" width="385" height="689"/>
+	<SubTexture name="Idle0011" x="1590" y="10" width="385" height="689"/>
+	<SubTexture name="Idle0012" x="1985" y="10" width="385" height="689"/>
+	<SubTexture name="Idle0013" x="2380" y="10" width="385" height="689"/>
+	<SubTexture name="Left0000" x="2775" y="10" width="310" height="677"/>
+	<SubTexture name="Left0001" x="3095" y="10" width="310" height="677"/>
+	<SubTexture name="Left0002" x="3415" y="10" width="310" height="677"/>
+	<SubTexture name="Left0003" x="3415" y="10" width="310" height="677"/>
+	<SubTexture name="Left0004" x="3415" y="10" width="310" height="677"/>
+	<SubTexture name="Left0005" x="3415" y="10" width="310" height="677"/>
+	<SubTexture name="Left0006" x="3415" y="10" width="310" height="677"/>
+	<SubTexture name="Left0007" x="3415" y="10" width="310" height="677"/>
+	<SubTexture name="Left0008" x="3415" y="10" width="310" height="677"/>
+	<SubTexture name="Left0009" x="3415" y="10" width="310" height="677"/>
+	<SubTexture name="Left0010" x="3415" y="10" width="310" height="677"/>
+	<SubTexture name="Left0011" x="3415" y="10" width="310" height="677"/>
+	<SubTexture name="Left0012" x="3415" y="10" width="310" height="677"/>
+	<SubTexture name="Left0013" x="3415" y="10" width="310" height="677"/>
+	<SubTexture name="Right0000" x="10" y="709" width="370" height="671"/>
+	<SubTexture name="Right0001" x="390" y="709" width="370" height="671"/>
+	<SubTexture name="Right0002" x="770" y="709" width="370" height="671"/>
+	<SubTexture name="Right0003" x="770" y="709" width="370" height="671"/>
+	<SubTexture name="Right0004" x="770" y="709" width="370" height="671"/>
+	<SubTexture name="Right0005" x="770" y="709" width="370" height="671"/>
+	<SubTexture name="Right0006" x="770" y="709" width="370" height="671"/>
+	<SubTexture name="Right0007" x="770" y="709" width="370" height="671"/>
+	<SubTexture name="Right0008" x="770" y="709" width="370" height="671"/>
+	<SubTexture name="Right0009" x="770" y="709" width="370" height="671"/>
+	<SubTexture name="Right0010" x="770" y="709" width="370" height="671"/>
+	<SubTexture name="Right0011" x="770" y="709" width="370" height="671"/>
+	<SubTexture name="Right0012" x="770" y="709" width="370" height="671"/>
+	<SubTexture name="Right0013" x="770" y="709" width="370" height="671"/>
+</TextureAtlas>

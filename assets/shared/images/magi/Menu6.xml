@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu6.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Menu60000" x="10" y="10" width="783" height="477"/>
+	<SubTexture name="Menu60001" x="10" y="10" width="783" height="477"/>
+	<SubTexture name="Menu60002" x="10" y="497" width="783" height="477"/>
+	<SubTexture name="Menu60003" x="10" y="497" width="783" height="477"/>
+</TextureAtlas>

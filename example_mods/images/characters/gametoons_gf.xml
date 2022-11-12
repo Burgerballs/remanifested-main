@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gametoons_gf.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gametoons gf down0000" x="0" y="0" width="802" height="857"/>
+	<SubTexture name="gametoons gf down0001" x="0" y="0" width="802" height="857"/>
+	<SubTexture name="gametoons gf down0002" x="902" y="0" width="765" height="849" frameX="-14" frameY="-6" frameWidth="802" frameHeight="857"/>
+	<SubTexture name="gametoons gf down0003" x="902" y="0" width="765" height="849" frameX="-14" frameY="-6" frameWidth="802" frameHeight="857"/>
+	<SubTexture name="gametoons gf down0004" x="1767" y="0" width="752" height="845" frameX="-21" frameY="-9" frameWidth="802" frameHeight="857"/>
+	<SubTexture name="gametoons gf down0005" x="1767" y="0" width="752" height="845" frameX="-21" frameY="-9" frameWidth="802" frameHeight="857"/>
+	<SubTexture name="gametoons gf down0006" x="2619" y="0" width="747" height="842" frameX="-29" frameY="-10" frameWidth="802" frameHeight="857"/>
+	<SubTexture name="gametoons gf down0007" x="2619" y="0" width="747" height="842" frameX="-29" frameY="-10" frameWidth="802" frameHeight="857"/>
+	<SubTexture name="gametoons gf down0008" x="0" y="957" width="748" height="842" frameX="-29" frameY="-10" frameWidth="802" frameHeight="857"/>
+	<SubTexture name="gametoons gf down0009" x="0" y="957" width="748" height="842" frameX="-29" frameY="-10" frameWidth="802" frameHeight="857"/>
+	<SubTexture name="gametoons gf down0010" x="0" y="957" width="748" height="842" frameX="-29" frameY="-10" frameWidth="802" frameHeight="857"/>
+	<SubTexture name="gametoons gf down0011" x="0" y="957" width="748" height="842" frameX="-29" frameY="-10" frameWidth="802" frameHeight="857"/>
+	<SubTexture name="gametoons gf down0012" x="0" y="957" width="748" height="842" frameX="-29" frameY="-10" frameWidth="802" frameHeight="857"/>
+	<SubTexture name="gametoons gf down0013" x="0" y="957" width="748" height="842" frameX="-29" frameY="-10" frameWidth="802" frameHeight="857"/>
+	<SubTexture name="gametoons gf down0014" x="0" y="957" width="748" height="842" frameX="-29" frameY="-10" frameWidth="802" frameHeight="857"/>
+	<SubTexture name="gametoons gf idle0000" x="848" y="957" width="799" height="853"/>
+	<SubTexture name="gametoons gf idle0001" x="848" y="957" width="799" height="853"/>
+	<SubTexture name="gametoons gf idle0002" x="1747" y="957" width="776" height="851" frameX="-15" frameY="0" frameWidth="799" frameHeight="853"/>
+	<SubTexture name="gametoons gf idle0003" x="1747" y="957" width="776" height="851" frameX="-15" frameY="0" frameWidth="799" frameHeight="853"/>
+	<SubTexture name="gametoons gf idle0004" x="2623" y="957" width="747" height="838" frameX="-35" frameY="-6" frameWidth="799" frameHeight="853"/>
+	<SubTexture name="gametoons gf idle0005" x="2623" y="957" width="747" height="838" frameX="-35" frameY="-6" frameWidth="799" frameHeight="853"/>
+	<SubTexture name="gametoons gf idle0006" x="0" y="1910" width="740" height="837" frameX="-42" frameY="-7" frameWidth="799" frameHeight="853"/>
+	<SubTexture name="gametoons gf idle0007" x="0" y="1910" width="740" height="837" frameX="-42" frameY="-7" frameWidth="799" frameHeight="853"/>
+	<SubTexture name="gametoons gf idle0008" x="840" y="1910" width="749" height="844" frameX="-42" frameY="0" frameWidth="799" frameHeight="853"/>
+	<SubTexture name="gametoons gf idle0009" x="840" y="1910" width="749" height="844" frameX="-42" frameY="0" frameWidth="799" frameHeight="853"/>
+	<SubTexture name="gametoons gf idle0010" x="840" y="1910" width="749" height="844" frameX="-42" frameY="0" frameWidth="799" frameHeight="853"/>
+	<SubTexture name="gametoons gf idle0011" x="840" y="1910" width="749" height="844" frameX="-42" frameY="0" frameWidth="799" frameHeight="853"/>
+	<SubTexture name="gametoons gf idle0012" x="840" y="1910" width="749" height="844" frameX="-42" frameY="0" frameWidth="799" frameHeight="853"/>
+	<SubTexture name="gametoons gf idle0013" x="840" y="1910" width="749" height="844" frameX="-42" frameY="0" frameWidth="799" frameHeight="853"/>
+	<SubTexture name="gametoons gf left0000" x="1689" y="1910" width="811" height="891"/>
+	<SubTexture name="gametoons gf left0001" x="1689" y="1910" width="811" height="891"/>
+	<SubTexture name="gametoons gf left0002" x="2600" y="1910" width="788" height="863" frameX="-14" frameY="-20" frameWidth="811" frameHeight="891"/>
+	<SubTexture name="gametoons gf left0003" x="2600" y="1910" width="788" height="863" frameX="-14" frameY="-20" frameWidth="811" frameHeight="891"/>
+	<SubTexture name="gametoons gf left0004" x="0" y="2901" width="767" height="853" frameX="-29" frameY="-32" frameWidth="811" frameHeight="891"/>
+	<SubTexture name="gametoons gf left0005" x="0" y="2901" width="767" height="853" frameX="-29" frameY="-32" frameWidth="811" frameHeight="891"/>
+	<SubTexture name="gametoons gf left0006" x="867" y="2901" width="753" height="853" frameX="-34" frameY="-32" frameWidth="811" frameHeight="891"/>
+	<SubTexture name="gametoons gf left0007" x="867" y="2901" width="753" height="853" frameX="-34" frameY="-32" frameWidth="811" frameHeight="891"/>
+	<SubTexture name="gametoons gf left0008" x="1720" y="2901" width="749" height="853" frameX="-36" frameY="-32" frameWidth="811" frameHeight="891"/>
+	<SubTexture name="gametoons gf left0009" x="1720" y="2901" width="749" height="853" frameX="-36" frameY="-32" frameWidth="811" frameHeight="891"/>
+	<SubTexture name="gametoons gf left0010" x="1720" y="2901" width="749" height="853" frameX="-36" frameY="-32" frameWidth="811" frameHeight="891"/>
+	<SubTexture name="gametoons gf left0011" x="1720" y="2901" width="749" height="853" frameX="-36" frameY="-32" frameWidth="811" frameHeight="891"/>
+	<SubTexture name="gametoons gf left0012" x="1720" y="2901" width="749" height="853" frameX="-36" frameY="-32" frameWidth="811" frameHeight="891"/>
+	<SubTexture name="gametoons gf left0013" x="1720" y="2901" width="749" height="853" frameX="-36" frameY="-32" frameWidth="811" frameHeight="891"/>
+	<SubTexture name="gametoons gf left0014" x="1720" y="2901" width="749" height="853" frameX="-36" frameY="-32" frameWidth="811" frameHeight="891"/>
+	<SubTexture name="gametoons gf right0000" x="2569" y="2901" width="790" height="882" frameX="0" frameY="0" frameWidth="790" frameHeight="885"/>
+	<SubTexture name="gametoons gf right0001" x="2569" y="2901" width="790" height="882" frameX="0" frameY="0" frameWidth="790" frameHeight="885"/>
+	<SubTexture name="gametoons gf right0002" x="0" y="3883" width="758" height="852" frameX="-8" frameY="-30" frameWidth="790" frameHeight="885"/>
+	<SubTexture name="gametoons gf right0003" x="0" y="3883" width="758" height="852" frameX="-8" frameY="-30" frameWidth="790" frameHeight="885"/>
+	<SubTexture name="gametoons gf right0004" x="858" y="3883" width="740" height="837" frameX="-19" frameY="-44" frameWidth="790" frameHeight="885"/>
+	<SubTexture name="gametoons gf right0005" x="858" y="3883" width="740" height="837" frameX="-19" frameY="-44" frameWidth="790" frameHeight="885"/>
+	<SubTexture name="gametoons gf right0006" x="1698" y="3883" width="746" height="840" frameX="-27" frameY="-43" frameWidth="790" frameHeight="885"/>
+	<SubTexture name="gametoons gf right0007" x="1698" y="3883" width="746" height="840" frameX="-27" frameY="-43" frameWidth="790" frameHeight="885"/>
+	<SubTexture name="gametoons gf right0008" x="2544" y="3883" width="748" height="844" frameX="-29" frameY="-41" frameWidth="790" frameHeight="885"/>
+	<SubTexture name="gametoons gf right0009" x="2544" y="3883" width="748" height="844" frameX="-29" frameY="-41" frameWidth="790" frameHeight="885"/>
+	<SubTexture name="gametoons gf right0010" x="2544" y="3883" width="748" height="844" frameX="-29" frameY="-41" frameWidth="790" frameHeight="885"/>
+	<SubTexture name="gametoons gf right0011" x="2544" y="3883" width="748" height="844" frameX="-29" frameY="-41" frameWidth="790" frameHeight="885"/>
+	<SubTexture name="gametoons gf right0012" x="2544" y="3883" width="748" height="844" frameX="-29" frameY="-41" frameWidth="790" frameHeight="885"/>
+	<SubTexture name="gametoons gf right0013" x="2544" y="3883" width="748" height="844" frameX="-29" frameY="-41" frameWidth="790" frameHeight="885"/>
+	<SubTexture name="gametoons gf right0014" x="2544" y="3883" width="748" height="844" frameX="-29" frameY="-41" frameWidth="790" frameHeight="885"/>
+	<SubTexture name="gametoons gf up0000" x="0" y="4835" width="767" height="850" frameX="0" frameY="0" frameWidth="767" frameHeight="859"/>
+	<SubTexture name="gametoons gf up0001" x="0" y="4835" width="767" height="850" frameX="0" frameY="0" frameWidth="767" frameHeight="859"/>
+	<SubTexture name="gametoons gf up0002" x="867" y="4835" width="750" height="846" frameX="-7" frameY="-9" frameWidth="767" frameHeight="859"/>
+	<SubTexture name="gametoons gf up0003" x="867" y="4835" width="750" height="846" frameX="-7" frameY="-9" frameWidth="767" frameHeight="859"/>
+	<SubTexture name="gametoons gf up0004" x="1717" y="4835" width="750" height="843" frameX="-13" frameY="-12" frameWidth="767" frameHeight="859"/>
+	<SubTexture name="gametoons gf up0005" x="1717" y="4835" width="750" height="843" frameX="-13" frameY="-12" frameWidth="767" frameHeight="859"/>
+	<SubTexture name="gametoons gf up0006" x="2567" y="4835" width="756" height="846" frameX="-11" frameY="-10" frameWidth="767" frameHeight="859"/>
+	<SubTexture name="gametoons gf up0007" x="2567" y="4835" width="756" height="846" frameX="-11" frameY="-10" frameWidth="767" frameHeight="859"/>
+	<SubTexture name="gametoons gf up0008" x="0" y="5785" width="761" height="850" frameX="-6" frameY="-9" frameWidth="767" frameHeight="859"/>
+	<SubTexture name="gametoons gf up0009" x="0" y="5785" width="761" height="850" frameX="-6" frameY="-9" frameWidth="767" frameHeight="859"/>
+	<SubTexture name="gametoons gf up0010" x="0" y="5785" width="761" height="850" frameX="-6" frameY="-9" frameWidth="767" frameHeight="859"/>
+	<SubTexture name="gametoons gf up0011" x="0" y="5785" width="761" height="850" frameX="-6" frameY="-9" frameWidth="767" frameHeight="859"/>
+	<SubTexture name="gametoons gf up0012" x="0" y="5785" width="761" height="850" frameX="-6" frameY="-9" frameWidth="767" frameHeight="859"/>
+	<SubTexture name="gametoons gf up0013" x="0" y="5785" width="761" height="850" frameX="-6" frameY="-9" frameWidth="767" frameHeight="859"/>
+	<SubTexture name="gametoons gf up0014" x="0" y="5785" width="761" height="850" frameX="-6" frameY="-9" frameWidth="767" frameHeight="859"/>
+</TextureAtlas>

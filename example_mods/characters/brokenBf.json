@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Mom Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/brokenBf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

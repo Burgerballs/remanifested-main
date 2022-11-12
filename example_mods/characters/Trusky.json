@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TruskyIdle"
+		},
+		{
+			"offsets": [
+				28,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TruskyLeft"
+		},
+		{
+			"offsets": [
+				-24,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TruskyDown"
+		},
+		{
+			"offsets": [
+				-19,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TruskyUp"
+		},
+		{
+			"offsets": [
+				-39,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TruskyRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TruskyB",
+	"position": [
+		0,
+		170
+	],
+	"healthicon": "trusky",
+	"flip_x": false,
+	"healthbar_colors": [
+		42,
+		207,
+		250
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

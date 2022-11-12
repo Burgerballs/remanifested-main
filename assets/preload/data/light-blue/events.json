@@ -1,0 +1,84 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "lightblue",
+		"player1": "skyBB",
+		"player2": "MetalSky",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"bbDeath",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19833.3333333333,
+				[
+					[
+						"Play Animation",
+						"grab",
+						"GF"
+					]
+				]
+			],
+			[
+				20166.6666666667,
+				[
+					[
+						"Play Animation",
+						"found",
+						"GF"
+					],
+					[
+						"Alt Idle Animation",
+						"GF",
+						"-alt"
+					]
+				]
+			],
+			[
+				53250,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				58666.6666666667,
+				[
+					[
+						"Alt Idle Animation",
+						"bf",
+						"-alt"
+					]
+				]
+			],
+			[
+				138500,
+				[
+					[
+						"Alt Idle Animation",
+						"gf",
+						"-trumpet"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "ski",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Light-Blue"
+	}
+}

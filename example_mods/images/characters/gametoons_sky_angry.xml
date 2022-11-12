@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gametoons_sky_angry.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gametoons sky down angry0000" x="0" y="0" width="674" height="814" frameX="0" frameY="-18" frameWidth="674" frameHeight="832"/>
+	<SubTexture name="gametoons sky down angry0001" x="0" y="0" width="674" height="814" frameX="0" frameY="-18" frameWidth="674" frameHeight="832"/>
+	<SubTexture name="gametoons sky down angry0002" x="774" y="0" width="658" height="819" frameX="-8" frameY="-8" frameWidth="674" frameHeight="832"/>
+	<SubTexture name="gametoons sky down angry0003" x="774" y="0" width="658" height="819" frameX="-8" frameY="-8" frameWidth="674" frameHeight="832"/>
+	<SubTexture name="gametoons sky down angry0004" x="1532" y="0" width="652" height="826" frameX="-11" frameY="-1" frameWidth="674" frameHeight="832"/>
+	<SubTexture name="gametoons sky down angry0005" x="1532" y="0" width="652" height="826" frameX="-11" frameY="-1" frameWidth="674" frameHeight="832"/>
+	<SubTexture name="gametoons sky down angry0006" x="2284" y="0" width="648" height="827" frameX="-13" frameY="0" frameWidth="674" frameHeight="832"/>
+	<SubTexture name="gametoons sky down angry0007" x="2284" y="0" width="648" height="827" frameX="-13" frameY="0" frameWidth="674" frameHeight="832"/>
+	<SubTexture name="gametoons sky down angry0008" x="2284" y="0" width="648" height="827" frameX="-13" frameY="0" frameWidth="674" frameHeight="832"/>
+	<SubTexture name="gametoons sky down angry0009" x="2284" y="0" width="648" height="827" frameX="-13" frameY="0" frameWidth="674" frameHeight="832"/>
+	<SubTexture name="gametoons sky down angry0010" x="2284" y="0" width="648" height="827" frameX="-13" frameY="0" frameWidth="674" frameHeight="832"/>
+	<SubTexture name="gametoons sky down angry0011" x="2284" y="0" width="648" height="827" frameX="-13" frameY="0" frameWidth="674" frameHeight="832"/>
+	<SubTexture name="gametoons sky down angry0012" x="2284" y="0" width="648" height="827" frameX="-13" frameY="0" frameWidth="674" frameHeight="832"/>
+	<SubTexture name="gametoons sky down angry0013" x="2284" y="0" width="648" height="827" frameX="-13" frameY="0" frameWidth="674" frameHeight="832"/>
+	<SubTexture name="gametoons sky down angry0014" x="2284" y="0" width="648" height="827" frameX="-13" frameY="0" frameWidth="674" frameHeight="832"/>
+	<SubTexture name="gametoons sky idle angry0000" x="3032" y="0" width="629" height="797" frameX="0" frameY="-15" frameWidth="629" frameHeight="812"/>
+	<SubTexture name="gametoons sky idle angry0001" x="3032" y="0" width="629" height="797" frameX="0" frameY="-15" frameWidth="629" frameHeight="812"/>
+	<SubTexture name="gametoons sky idle angry0002" x="0" y="927" width="613" height="804" frameX="-8" frameY="-8" frameWidth="629" frameHeight="812"/>
+	<SubTexture name="gametoons sky idle angry0003" x="0" y="927" width="613" height="804" frameX="-8" frameY="-8" frameWidth="629" frameHeight="812"/>
+	<SubTexture name="gametoons sky idle angry0004" x="713" y="927" width="601" height="811" frameX="-14" frameY="-1" frameWidth="629" frameHeight="812"/>
+	<SubTexture name="gametoons sky idle angry0005" x="713" y="927" width="601" height="811" frameX="-14" frameY="-1" frameWidth="629" frameHeight="812"/>
+	<SubTexture name="gametoons sky idle angry0006" x="1414" y="927" width="595" height="812" frameX="-17" frameY="0" frameWidth="629" frameHeight="812"/>
+	<SubTexture name="gametoons sky idle angry0007" x="1414" y="927" width="595" height="812" frameX="-17" frameY="0" frameWidth="629" frameHeight="812"/>
+	<SubTexture name="gametoons sky idle angry0008" x="1414" y="927" width="595" height="812" frameX="-17" frameY="0" frameWidth="629" frameHeight="812"/>
+	<SubTexture name="gametoons sky idle angry0009" x="1414" y="927" width="595" height="812" frameX="-17" frameY="0" frameWidth="629" frameHeight="812"/>
+	<SubTexture name="gametoons sky idle angry0010" x="1414" y="927" width="595" height="812" frameX="-17" frameY="0" frameWidth="629" frameHeight="812"/>
+	<SubTexture name="gametoons sky idle angry0011" x="1414" y="927" width="595" height="812" frameX="-17" frameY="0" frameWidth="629" frameHeight="812"/>
+	<SubTexture name="gametoons sky idle angry0012" x="1414" y="927" width="595" height="812" frameX="-17" frameY="0" frameWidth="629" frameHeight="812"/>
+	<SubTexture name="gametoons sky idle angry0013" x="1414" y="927" width="595" height="812" frameX="-17" frameY="0" frameWidth="629" frameHeight="812"/>
+	<SubTexture name="gametoons sky left angry0000" x="2109" y="927" width="650" height="831"/>
+	<SubTexture name="gametoons sky left angry0001" x="2109" y="927" width="650" height="831"/>
+	<SubTexture name="gametoons sky left angry0002" x="2859" y="927" width="643" height="831" frameX="-4" frameY="0" frameWidth="650" frameHeight="831"/>
+	<SubTexture name="gametoons sky left angry0003" x="2859" y="927" width="643" height="831" frameX="-4" frameY="0" frameWidth="650" frameHeight="831"/>
+	<SubTexture name="gametoons sky left angry0004" x="0" y="1858" width="637" height="831" frameX="-5" frameY="0" frameWidth="650" frameHeight="831"/>
+	<SubTexture name="gametoons sky left angry0005" x="0" y="1858" width="637" height="831" frameX="-5" frameY="0" frameWidth="650" frameHeight="831"/>
+	<SubTexture name="gametoons sky left angry0006" x="737" y="1858" width="632" height="831" frameX="-8" frameY="0" frameWidth="650" frameHeight="831"/>
+	<SubTexture name="gametoons sky left angry0007" x="737" y="1858" width="632" height="831" frameX="-8" frameY="0" frameWidth="650" frameHeight="831"/>
+	<SubTexture name="gametoons sky left angry0008" x="1469" y="1858" width="632" height="831" frameX="-8" frameY="0" frameWidth="650" frameHeight="831"/>
+	<SubTexture name="gametoons sky left angry0009" x="1469" y="1858" width="632" height="831" frameX="-8" frameY="0" frameWidth="650" frameHeight="831"/>
+	<SubTexture name="gametoons sky left angry0010" x="1469" y="1858" width="632" height="831" frameX="-8" frameY="0" frameWidth="650" frameHeight="831"/>
+	<SubTexture name="gametoons sky left angry0011" x="1469" y="1858" width="632" height="831" frameX="-8" frameY="0" frameWidth="650" frameHeight="831"/>
+	<SubTexture name="gametoons sky left angry0012" x="1469" y="1858" width="632" height="831" frameX="-8" frameY="0" frameWidth="650" frameHeight="831"/>
+	<SubTexture name="gametoons sky left angry0013" x="1469" y="1858" width="632" height="831" frameX="-8" frameY="0" frameWidth="650" frameHeight="831"/>
+	<SubTexture name="gametoons sky left angry0014" x="1469" y="1858" width="632" height="831" frameX="-8" frameY="0" frameWidth="650" frameHeight="831"/>
+	<SubTexture name="gametoons sky right angry0000" x="2201" y="1858" width="611" height="812" frameX="0" frameY="0" frameWidth="638" frameHeight="812"/>
+	<SubTexture name="gametoons sky right angry0001" x="2201" y="1858" width="611" height="812" frameX="0" frameY="0" frameWidth="638" frameHeight="812"/>
+	<SubTexture name="gametoons sky right angry0002" x="2912" y="1858" width="597" height="812" frameX="-17" frameY="0" frameWidth="638" frameHeight="812"/>
+	<SubTexture name="gametoons sky right angry0003" x="2912" y="1858" width="597" height="812" frameX="-17" frameY="0" frameWidth="638" frameHeight="812"/>
+	<SubTexture name="gametoons sky right angry0004" x="0" y="2789" width="601" height="812" frameX="-25" frameY="0" frameWidth="638" frameHeight="812"/>
+	<SubTexture name="gametoons sky right angry0005" x="0" y="2789" width="601" height="812" frameX="-25" frameY="0" frameWidth="638" frameHeight="812"/>
+	<SubTexture name="gametoons sky right angry0006" x="701" y="2789" width="605" height="812" frameX="-28" frameY="0" frameWidth="638" frameHeight="812"/>
+	<SubTexture name="gametoons sky right angry0007" x="701" y="2789" width="605" height="812" frameX="-28" frameY="0" frameWidth="638" frameHeight="812"/>
+	<SubTexture name="gametoons sky right angry0008" x="1406" y="2789" width="609" height="812" frameX="-29" frameY="0" frameWidth="638" frameHeight="812"/>
+	<SubTexture name="gametoons sky right angry0009" x="1406" y="2789" width="609" height="812" frameX="-29" frameY="0" frameWidth="638" frameHeight="812"/>
+	<SubTexture name="gametoons sky right angry0010" x="1406" y="2789" width="609" height="812" frameX="-29" frameY="0" frameWidth="638" frameHeight="812"/>
+	<SubTexture name="gametoons sky right angry0011" x="1406" y="2789" width="609" height="812" frameX="-29" frameY="0" frameWidth="638" frameHeight="812"/>
+	<SubTexture name="gametoons sky right angry0012" x="1406" y="2789" width="609" height="812" frameX="-29" frameY="0" frameWidth="638" frameHeight="812"/>
+	<SubTexture name="gametoons sky right angry0013" x="1406" y="2789" width="609" height="812" frameX="-29" frameY="0" frameWidth="638" frameHeight="812"/>
+	<SubTexture name="gametoons sky right angry0014" x="1406" y="2789" width="609" height="812" frameX="-29" frameY="0" frameWidth="638" frameHeight="812"/>
+	<SubTexture name="gametoons sky up angry0000" x="2115" y="2789" width="613" height="828" frameX="0" frameY="0" frameWidth="613" frameHeight="829"/>
+	<SubTexture name="gametoons sky up angry0001" x="2115" y="2789" width="613" height="828" frameX="0" frameY="0" frameWidth="613" frameHeight="829"/>
+	<SubTexture name="gametoons sky up angry0002" x="2828" y="2789" width="605" height="821" frameX="-4" frameY="-7" frameWidth="613" frameHeight="829"/>
+	<SubTexture name="gametoons sky up angry0003" x="2828" y="2789" width="605" height="821" frameX="-4" frameY="-7" frameWidth="613" frameHeight="829"/>
+	<SubTexture name="gametoons sky up angry0004" x="0" y="3717" width="595" height="818" frameX="-9" frameY="-11" frameWidth="613" frameHeight="829"/>
+	<SubTexture name="gametoons sky up angry0005" x="0" y="3717" width="595" height="818" frameX="-9" frameY="-11" frameWidth="613" frameHeight="829"/>
+	<SubTexture name="gametoons sky up angry0006" x="695" y="3717" width="593" height="816" frameX="-10" frameY="-13" frameWidth="613" frameHeight="829"/>
+	<SubTexture name="gametoons sky up angry0007" x="695" y="3717" width="593" height="816" frameX="-10" frameY="-13" frameWidth="613" frameHeight="829"/>
+	<SubTexture name="gametoons sky up angry0008" x="1388" y="3717" width="593" height="816" frameX="-10" frameY="-13" frameWidth="613" frameHeight="829"/>
+	<SubTexture name="gametoons sky up angry0009" x="1388" y="3717" width="593" height="816" frameX="-10" frameY="-13" frameWidth="613" frameHeight="829"/>
+	<SubTexture name="gametoons sky up angry0010" x="1388" y="3717" width="593" height="816" frameX="-10" frameY="-13" frameWidth="613" frameHeight="829"/>
+	<SubTexture name="gametoons sky up angry0011" x="1388" y="3717" width="593" height="816" frameX="-10" frameY="-13" frameWidth="613" frameHeight="829"/>
+	<SubTexture name="gametoons sky up angry0012" x="1388" y="3717" width="593" height="816" frameX="-10" frameY="-13" frameWidth="613" frameHeight="829"/>
+	<SubTexture name="gametoons sky up angry0013" x="1388" y="3717" width="593" height="816" frameX="-10" frameY="-13" frameWidth="613" frameHeight="829"/>
+	<SubTexture name="gametoons sky up angry0014" x="1388" y="3717" width="593" height="816" frameX="-10" frameY="-13" frameWidth="613" frameHeight="829"/>
+</TextureAtlas>

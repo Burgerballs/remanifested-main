@@ -1,0 +1,31 @@
+{
+	"storyName": "EddsWorld",
+	"difficulties": "Hard, Fucked",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		51,
+		173,
+		51
+	],
+	"weekBefore": "weeks",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"gf",
+		"bf"
+	],
+	"songs": [
+		[
+			"ChallengEdd",
+			"sky",
+			[
+				156,
+				110,
+				204
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Challenge-Edd"
+}

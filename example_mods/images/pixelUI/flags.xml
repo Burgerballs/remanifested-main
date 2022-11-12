@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flags.png">
+	<!-- Created with my fucking brain -->
+	<SubTexture name="flagminus" x="8" y="0" width="8" height="8"/>
+	<SubTexture name="flagplus" x="16" y="0" width="8" height="8"/>
+	<SubTexture name="flagcheck" x="24" y="0" width="8" height="8"/>
+	<SubTexture name="die" x="32" y="0" width="8" height="8"/>
+</TextureAtlas>

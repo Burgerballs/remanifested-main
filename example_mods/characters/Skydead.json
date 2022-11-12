@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-80,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "SkyDeath"
+		},
+		{
+			"offsets": [
+				-80,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "SkyConfirm"
+		},
+		{
+			"offsets": [
+				-80,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "SkyRetry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SkyDead",
+	"position": [
+		900,
+		-150
+	],
+	"healthicon": "fakersky",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-120,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

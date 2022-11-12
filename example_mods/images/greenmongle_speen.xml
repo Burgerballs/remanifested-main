@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="greenmongle_speen.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="greenamongle_spin0000" x="0" y="0" width="131" height="115" frameX="0" frameY="0" frameWidth="141" frameHeight="118"/>
+	<SubTexture name="greenamongle_spin0001" x="131" y="0" width="113" height="117" frameX="-12" frameY="-1" frameWidth="141" frameHeight="118"/>
+	<SubTexture name="greenamongle_spin0002" x="0" y="117" width="113" height="117" frameX="-16" frameY="-1" frameWidth="141" frameHeight="118"/>
+	<SubTexture name="greenamongle_spin0003" x="113" y="117" width="131" height="115" frameX="-10" frameY="0" frameWidth="141" frameHeight="118"/>
+	<SubTexture name="greenamongle_spin0004" x="0" y="234" width="121" height="107" frameX="-5" frameY="-3" frameWidth="141" frameHeight="118"/>
+	<SubTexture name="greenamongle_spin0005" x="121" y="234" width="107" height="111" frameX="-15" frameY="0" frameWidth="141" frameHeight="118"/>
+	<SubTexture name="greenamongle_spin0006" x="0" y="345" width="107" height="111" frameX="-9" frameY="0" frameWidth="141" frameHeight="118"/>
+	<SubTexture name="greenamongle_spin0007" x="107" y="345" width="121" height="107" frameX="-2" frameY="-3" frameWidth="141" frameHeight="118"/>
+</TextureAtlas>

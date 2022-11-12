@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SkyLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SkyDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SkyUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SkyRight",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1296,
+				120
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "SkyIdle-Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "OskyIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				13
+			],
+			"anim": "grr",
+			"fps": 24,
+			"name": "Grr",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ShiftSky",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ShiftS",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		250,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

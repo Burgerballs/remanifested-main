@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "manifest",
+			"text": "you...",
+			"boxState": "normal",
+			"portrait": "sky-dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "I? ",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "manifest",
+			"text": "You stole my boyfriend away from me...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky-dialogue"
+		},
+		{
+			"expression": "manifest",
+			"text": "?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "manifest",
+			"text": "and now. you. will. PAY",
+			"boxState": "normal",
+			"portrait": "sky-dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "manifest",
+			"text": "ah. Queue the obligatory last song \\ntransformation",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky-dialogue",
+			"boxState": "normal",
+			"expression": "manifest",
+			"text": "SHUT UP!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You manifest me onto a cross yet you can't manifest some bitches"
+		},
+		{
+			"expression": "manifest",
+			"text": "I'LL MAKE YOU EAT THOSE WORDS YOU RED HAIRED BITCH!!",
+			"boxState": "normal",
+			"portrait": "sky-dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "demon",
+			"text": "Go shift to danganronpa bitch :3",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "*ahem* GF shut up you're making this worse",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "manifest",
+			"text": "Oh she's making it worse? Don't worry then\\nmy sweet boyfriend.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky-dialogue"
+		},
+		{
+			"expression": "manifest",
+			"text": "You will never have to worry about her rude ass anymore.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "sky-dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "beep?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

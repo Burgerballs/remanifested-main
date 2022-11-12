@@ -1,0 +1,191 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sky annoyed right"
+		},
+		{
+			"offsets": [
+				13,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sky annoyed down"
+		},
+		{
+			"offsets": [
+				0,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sky annoyed up"
+		},
+		{
+			"offsets": [
+				45,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sky annoyed left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "sky annoyed idle",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "sky annoyed idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"offsets": [
+				11,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "sky annoyed right"
+		},
+		{
+			"offsets": [
+				10,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "sky annoyed down"
+		},
+		{
+			"offsets": [
+				0,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "sky annoyed up"
+		},
+		{
+			"offsets": [
+				49,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "sky annoyed left"
+		},
+		{
+			"offsets": [
+				4,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "sky annoyed idle"
+		},
+		{
+			"offsets": [
+				4,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight-alt",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "sky annoyed idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sky_rhapsody",
+	"position": [
+		-20,
+		230
+	],
+	"healthicon": "negasky",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-120,
+		100
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

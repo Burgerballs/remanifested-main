@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGSkies.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BGSkies0000" x="10" y="10" width="649" height="517"/>
+	<SubTexture name="BGSkies0001" x="10" y="10" width="649" height="517"/>
+	<SubTexture name="BGSkies0002" x="669" y="10" width="649" height="517"/>
+	<SubTexture name="BGSkies0003" x="669" y="10" width="649" height="517"/>
+	<SubTexture name="BGSkies0004" x="1328" y="10" width="649" height="517"/>
+	<SubTexture name="BGSkies0005" x="1328" y="10" width="649" height="517"/>
+	<SubTexture name="BGSkies0006" x="10" y="537" width="649" height="517"/>
+	<SubTexture name="BGSkies0007" x="10" y="537" width="649" height="517"/>
+	<SubTexture name="BGSkies0008" x="10" y="537" width="649" height="517"/>
+	<SubTexture name="BGSkies0009" x="10" y="537" width="649" height="517"/>
+	<SubTexture name="BGSkies0010" x="10" y="537" width="649" height="517"/>
+	<SubTexture name="BGSkies0011" x="10" y="537" width="649" height="517"/>
+	<SubTexture name="BGSkies0012" x="10" y="537" width="649" height="517"/>
+	<SubTexture name="BGSkies0013" x="10" y="537" width="649" height="517"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BitchskyIdle"
+		},
+		{
+			"offsets": [
+				178,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BitchskyLeft"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BitchSkyDown"
+		},
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BitchskyUp"
+		},
+		{
+			"offsets": [
+				-20,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BitchskyRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ShiftBitchSky",
+	"position": [
+		140,
+		-50
+	],
+	"healthicon": "ShiftBS",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		90,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

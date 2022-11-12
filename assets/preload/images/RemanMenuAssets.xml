@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RemanMenuAssets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Credits0000" x="10" y="10" width="518" height="86"/>
+	<SubTexture name="Easy0000" x="538" y="10" width="175" height="49"/>
+	<SubTexture name="Freeplay0000" x="10" y="106" width="518" height="87"/>
+	<SubTexture name="Hard0000" x="538" y="106" width="185" height="47"/>
+	<SubTexture name="High0000" x="733" y="106" width="176" height="55"/>
+	<SubTexture name="LeftArrow0000" x="919" y="106" width="25" height="49"/>
+	<SubTexture name="Normal0000" x="10" y="203" width="289" height="49"/>
+	<SubTexture name="Options0000" x="309" y="203" width="518" height="86"/>
+	<SubTexture name="RightArrow0000" x="837" y="203" width="25" height="49"/>
+	<SubTexture name="SelectCredits0000" x="10" y="299" width="518" height="86"/>
+	<SubTexture name="SelectFreeplay0000" x="10" y="395" width="518" height="87"/>
+	<SubTexture name="SelectOptions0000" x="10" y="492" width="518" height="86"/>
+	<SubTexture name="SelectVsSky0000" x="10" y="588" width="518" height="86"/>
+	<SubTexture name="VsSky0000" x="10" y="684" width="518" height="86"/>
+</TextureAtlas>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu1.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LongHairTrusky0000" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0001" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0002" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0003" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0004" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0005" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0006" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0007" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0008" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0009" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0010" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0011" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0012" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0013" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0014" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0015" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0016" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0017" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0018" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0019" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0020" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0021" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0022" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0023" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0024" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0025" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0026" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0027" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0028" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0029" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0030" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0031" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0032" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0033" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0034" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0035" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0036" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0037" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0038" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0039" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0040" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0041" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0042" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0043" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0044" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0045" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0046" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0047" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0048" x="1364" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0049" x="1364" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0050" x="10" y="589" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0051" x="10" y="589" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0052" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0053" x="10" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0054" x="687" y="10" width="667" height="569"/>
+	<SubTexture name="LongHairTrusky0055" x="687" y="10" width="667" height="569"/>
+</TextureAtlas>

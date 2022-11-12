@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HeartWhenever.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Heart0000" x="10" y="10" width="159" height="159"/>
+	<SubTexture name="HeartGlow0000" x="179" y="10" width="344" height="241"/>
+	<SubTexture name="HeartGlow0001" x="533" y="10" width="344" height="241"/>
+	<SubTexture name="HeartGlow0002" x="887" y="10" width="344" height="241"/>
+	<SubTexture name="HeartGlow0003" x="1241" y="10" width="344" height="241"/>
+	<SubTexture name="HeartGlow0004" x="1595" y="10" width="344" height="241"/>
+	<SubTexture name="HeartGlow0005" x="10" y="261" width="344" height="241"/>
+	<SubTexture name="HeartGlow0006" x="364" y="261" width="344" height="241"/>
+	<SubTexture name="HeartGlow0007" x="718" y="261" width="344" height="241"/>
+	<SubTexture name="HeartGlow0008" x="1072" y="261" width="344" height="241"/>
+	<SubTexture name="HeartGlow0009" x="1426" y="261" width="344" height="241"/>
+	<SubTexture name="HeartGlow0010" x="10" y="512" width="344" height="241"/>
+	<SubTexture name="HeartGlow0011" x="364" y="512" width="344" height="241"/>
+	<SubTexture name="HeartGlow0012" x="718" y="512" width="344" height="241"/>
+	<SubTexture name="HeartGlow0013" x="1072" y="512" width="344" height="241"/>
+	<SubTexture name="HeartGlow0014" x="1426" y="512" width="344" height="241"/>
+	<SubTexture name="HeartGlow0015" x="10" y="763" width="344" height="241"/>
+</TextureAtlas>

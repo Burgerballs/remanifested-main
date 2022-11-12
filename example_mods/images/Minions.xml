@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Minions.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TwitterMinion0000" x="10" y="10" width="1535" height="566"/>
+	<SubTexture name="TwitterMinion0001" x="10" y="10" width="1535" height="566"/>
+	<SubTexture name="TwitterMinion0002" x="1555" y="10" width="1535" height="566"/>
+	<SubTexture name="TwitterMinion0003" x="1555" y="10" width="1535" height="566"/>
+	<SubTexture name="TwitterMinion0004" x="10" y="586" width="1535" height="566"/>
+	<SubTexture name="TwitterMinion0005" x="10" y="586" width="1535" height="566"/>
+	<SubTexture name="TwitterMinion0006" x="1555" y="586" width="1535" height="566"/>
+	<SubTexture name="TwitterMinion0007" x="1555" y="586" width="1535" height="566"/>
+	<SubTexture name="TwitterMinion0008" x="10" y="1162" width="1535" height="566"/>
+	<SubTexture name="TwitterMinion0009" x="10" y="1162" width="1535" height="566"/>
+	<SubTexture name="TwitterMinion0010" x="1555" y="586" width="1535" height="566"/>
+	<SubTexture name="TwitterMinion0011" x="1555" y="586" width="1535" height="566"/>
+	<SubTexture name="TwitterMinion0012" x="10" y="1162" width="1535" height="566"/>
+	<SubTexture name="TwitterMinion0013" x="10" y="1162" width="1535" height="566"/>
+	<SubTexture name="TwitterMinion0014" x="1555" y="586" width="1535" height="566"/>
+	<SubTexture name="TwitterMinion0015" x="1555" y="586" width="1535" height="566"/>
+</TextureAtlas>

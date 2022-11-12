@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sky_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sky_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				35
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sky_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sky_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				39
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sky_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				50
+			],
+			"anim": "look",
+			"fps": 24,
+			"name": "sky_look",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MUK/muksky_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

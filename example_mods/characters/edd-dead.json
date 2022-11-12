@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "FirstDeath"
+		},
+		{
+			"offsets": [
+				-73,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "SkyDeath"
+		},
+		{
+			"offsets": [
+				-55,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "DeathConfirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DEdd",
+	"position": [
+		-210,
+		80
+	],
+	"healthicon": "sky",
+	"flip_x": true,
+	"healthbar_colors": [
+		156,
+		110,
+		204
+	],
+	"camera_position": [
+		50,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

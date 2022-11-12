@@ -1,0 +1,257 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sky annoyed right"
+		},
+		{
+			"offsets": [
+				-7,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sky annoyed down"
+		},
+		{
+			"offsets": [
+				0,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sky annoyed up"
+		},
+		{
+			"offsets": [
+				45,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sky annoyed left"
+		},
+		{
+			"offsets": [
+				11,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "sky annoyed alt right"
+		},
+		{
+			"offsets": [
+				10,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "sky annoyed alt down"
+		},
+		{
+			"offsets": [
+				0,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "sky annoyed alt up"
+		},
+		{
+			"offsets": [
+				49,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "sky annoyed alt left"
+		},
+		{
+			"offsets": [
+				4,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "grr",
+			"indices": [],
+			"name": "sky annoyed grr"
+		},
+		{
+			"offsets": [
+				10,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ugh",
+			"indices": [],
+			"name": "sky annoyed ugh"
+		},
+		{
+			"offsets": [
+				4,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "oh",
+			"indices": [],
+			"name": "sky annoyed oh"
+		},
+		{
+			"offsets": [
+				20,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "huh",
+			"indices": [],
+			"name": "sky annoyed huh"
+		},
+		{
+			"offsets": [
+				157,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "manifest",
+			"indices": [],
+			"name": "sky annoyed manifesting"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				0
+			],
+			"anim": "what",
+			"fps": 24,
+			"name": "sky annoyed what",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "sky annoyed idle",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "sky annoyed idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-1
+			],
+			"anim": "danceLeft-alt",
+			"fps": 24,
+			"name": "sky annoyed alt idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-1
+			],
+			"anim": "danceRight-alt",
+			"fps": 24,
+			"name": "sky annoyed alt idle",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sky_annoyed_assets",
+	"position": [
+		-20,
+		230
+	],
+	"healthicon": "sky",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		107,
+		215
+	],
+	"camera_position": [
+		-120,
+		100
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

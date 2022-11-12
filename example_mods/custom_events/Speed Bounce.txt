@@ -1,0 +1,2 @@
+Value 1: The Bounce Start Pos
+Value 2: the time it takes the bounce to end (in seconds)

@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "FOR WHAT!?!?",
+			"boxState": "normal",
+			"portrait": "sky-dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "beep oop",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "so...",
+			"boxState": "normal",
+			"portrait": "sky-dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "it's that stupid girlfriend that's keeping you away from me?",
+			"boxState": "normal",
+			"portrait": "sky-dialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "behp",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "sky-dialogue",
+			"speed": 0.2,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "..",
+			"boxState": "normal",
+			"portrait": "sky-dialogue",
+			"speed": 0.15,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "...no matter...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky-dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "...I'll just manifest her away",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky-dialogue"
+		},
+		{
+			"expression": "confused",
+			"text": "...beep-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "IT MEANS YOUR PRECIOUS \\LITTLE \\\\nGIRLFRIEND IS GOOD AS GONE!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky-dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "FOR GOOD!!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky-dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "How original. You're manifesting again",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Since when did I say I was JUST gonna \\nmanifest?",
+			"boxState": "normal",
+			"portrait": "sky-dialogue",
+			"speed": 0.1,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "beep-?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

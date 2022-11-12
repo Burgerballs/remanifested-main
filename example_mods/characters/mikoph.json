@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "miko idle"
+		},
+		{
+			"offsets": [
+				11,
+				-20
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "miko left"
+		},
+		{
+			"offsets": [
+				-3,
+				20
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "miko up"
+		},
+		{
+			"offsets": [
+				-11,
+				-9
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "miko right"
+		},
+		{
+			"offsets": [
+				3,
+				-11
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "miko down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mikoPH",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mikos",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		230
+	],
+	"camera_position": [
+		0,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

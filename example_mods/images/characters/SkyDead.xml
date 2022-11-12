@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SkyDead.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SkyConfirm0000" x="10" y="10" width="699" height="935"/>
+	<SubTexture name="SkyConfirm0001" x="10" y="10" width="699" height="935"/>
+	<SubTexture name="SkyConfirm0002" x="719" y="10" width="699" height="935"/>
+	<SubTexture name="SkyConfirm0003" x="719" y="10" width="699" height="935"/>
+	<SubTexture name="SkyConfirm0004" x="1428" y="10" width="699" height="935"/>
+	<SubTexture name="SkyConfirm0005" x="1428" y="10" width="699" height="935"/>
+	<SubTexture name="SkyDeath0000" x="2137" y="10" width="699" height="935"/>
+	<SubTexture name="SkyDeath0001" x="2137" y="10" width="699" height="935"/>
+	<SubTexture name="SkyDeath0002" x="2846" y="10" width="699" height="935"/>
+	<SubTexture name="SkyDeath0003" x="2846" y="10" width="699" height="935"/>
+	<SubTexture name="SkyRetry0000" x="2137" y="10" width="699" height="935"/>
+	<SubTexture name="SkyRetry0001" x="2137" y="10" width="699" height="935"/>
+	<SubTexture name="SkyRetry0002" x="2846" y="10" width="699" height="935"/>
+	<SubTexture name="SkyRetry0003" x="2846" y="10" width="699" height="935"/>
+</TextureAtlas>

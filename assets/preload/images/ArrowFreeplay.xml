@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ArrowFreeplay.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ArrowFreeplay0000" x="10" y="10" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0001" x="10" y="10" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0002" x="1233" y="10" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0003" x="1233" y="10" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0004" x="2456" y="10" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0005" x="2456" y="10" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0006" x="10" y="235" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0007" x="10" y="235" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0008" x="1233" y="235" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0009" x="1233" y="235" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0010" x="2456" y="235" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0011" x="2456" y="235" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0012" x="10" y="460" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0013" x="10" y="460" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0014" x="1233" y="460" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0015" x="1233" y="460" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0016" x="2456" y="460" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0017" x="2456" y="460" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0018" x="10" y="685" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0019" x="10" y="685" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0020" x="1233" y="685" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0021" x="1233" y="685" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0022" x="2456" y="685" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0023" x="2456" y="685" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0024" x="10" y="910" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0025" x="10" y="910" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0026" x="1233" y="910" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0027" x="1233" y="910" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0028" x="2456" y="910" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0029" x="2456" y="910" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0030" x="10" y="1135" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0031" x="10" y="1135" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0032" x="1233" y="1135" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0033" x="1233" y="1135" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0034" x="2456" y="1135" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0035" x="2456" y="1135" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0036" x="10" y="1360" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0037" x="10" y="1360" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0038" x="10" y="1360" width="1213" height="215"/>
+	<SubTexture name="ArrowFreeplay0039" x="10" y="1360" width="1213" height="215"/>
+</TextureAtlas>

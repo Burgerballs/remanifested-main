@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Huh?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky-dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "What do you mean you don't want to date me??",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky-dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "bop",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "What do you mean you're in a committed relationship??",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.0499999999999999,
+			"portrait": "sky-dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "bop",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.0399999999999999,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "N-NO WAIT!!!",
+			"boxState": "normal",
+			"portrait": "sky-dialogue",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

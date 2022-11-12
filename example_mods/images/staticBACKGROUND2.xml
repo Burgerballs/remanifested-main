@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="staticBACKGROUND2.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menuSTATICNEW0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0003" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0004" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0005" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0006" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0007" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0008" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0009" x="3840" y="720" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0010" x="5120" y="720" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0011" x="6400" y="720" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0012" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0013" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0014" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0015" x="3840" y="1440" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0016" x="5120" y="1440" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0017" x="6400" y="1440" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0018" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0019" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0020" x="2560" y="2160" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0021" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0022" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW0023" x="6400" y="2160" width="1280" height="720"/>
+</TextureAtlas>

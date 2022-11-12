@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Heartbeat.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HeartBeat0000" x="10" y="10" width="141" height="764"/>
+	<SubTexture name="HeartBeat0001" x="161" y="10" width="141" height="764"/>
+	<SubTexture name="HeartBeat0002" x="312" y="10" width="141" height="764"/>
+	<SubTexture name="HeartBeat0003" x="463" y="10" width="141" height="764"/>
+	<SubTexture name="HeartBeat0004" x="614" y="10" width="141" height="764"/>
+	<SubTexture name="HeartBeat0005" x="765" y="10" width="141" height="764"/>
+	<SubTexture name="HeartBeat0006" x="916" y="10" width="141" height="764"/>
+	<SubTexture name="HeartBeat0007" x="1067" y="10" width="141" height="764"/>
+	<SubTexture name="HeartBeat0008" x="1218" y="10" width="141" height="764"/>
+	<SubTexture name="HeartBeat0009" x="1218" y="10" width="141" height="764"/>
+	<SubTexture name="HeartStatic0000" x="1369" y="10" width="137" height="767"/>
+</TextureAtlas>

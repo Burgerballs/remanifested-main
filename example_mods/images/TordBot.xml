@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TordBot.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TordBot0000" x="10" y="10" width="574" height="632"/>
+	<SubTexture name="TordBot0001" x="10" y="10" width="574" height="632"/>
+	<SubTexture name="TordBot0002" x="594" y="10" width="574" height="632"/>
+	<SubTexture name="TordBot0003" x="594" y="10" width="574" height="632"/>
+	<SubTexture name="TordBotBlowingUp0000" x="1178" y="10" width="1731" height="825"/>
+	<SubTexture name="TordBotBlowingUp0001" x="2919" y="10" width="1731" height="825"/>
+	<SubTexture name="TordBotBlowingUp0002" x="4660" y="10" width="1731" height="825"/>
+	<SubTexture name="TordBotBlowingUp0003" x="6401" y="10" width="1731" height="825"/>
+	<SubTexture name="TordBotBlowingUp0004" x="10" y="845" width="1731" height="825"/>
+	<SubTexture name="TordBotBlowingUp0005" x="10" y="845" width="1731" height="825"/>
+	<SubTexture name="TordBotBlowingUp0006" x="1751" y="845" width="1731" height="825"/>
+	<SubTexture name="TordBotBlowingUp0007" x="1751" y="845" width="1731" height="825"/>
+	<SubTexture name="TordBotBlowingUp0008" x="3492" y="845" width="1731" height="825"/>
+	<SubTexture name="TordBotBlowingUp0009" x="5233" y="845" width="1731" height="825"/>
+	<SubTexture name="TordBotBlowingUp0010" x="10" y="1680" width="1731" height="825"/>
+	<SubTexture name="TordBotBlowingUp0011" x="1751" y="1680" width="1731" height="825"/>
+	<SubTexture name="TordBotBlowingUp0012" x="3492" y="1680" width="1731" height="825"/>
+	<SubTexture name="TordBotBlowingUp0013" x="5233" y="1680" width="1731" height="825"/>
+	<SubTexture name="TordBotBlowingUp0014" x="5233" y="1680" width="1731" height="825"/>
+	<SubTexture name="TordBotBlowingUp0015" x="10" y="2515" width="1731" height="825"/>
+	<SubTexture name="TordBotBlowingUp0016" x="10" y="2515" width="1731" height="825"/>
+</TextureAtlas>

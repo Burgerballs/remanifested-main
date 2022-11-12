@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "FirstDeath"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": false,
+			"name": "RetryLoop"
+		},
+		{
+			"offsets": [
+				23,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "RetryConfirm"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bbskyed",
+	"position": [
+		50,
+		30
+	],
+	"healthicon": "sky",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		100,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

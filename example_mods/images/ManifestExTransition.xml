@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ManifestExTransition.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ManifestExTransition0000" x="10" y="10" width="1929" height="1085"/>
+	<SubTexture name="ManifestExTransition0001" x="1949" y="10" width="1929" height="1085"/>
+	<SubTexture name="ManifestExTransition0002" x="3888" y="10" width="1929" height="1085"/>
+	<SubTexture name="ManifestExTransition0003" x="5827" y="10" width="1929" height="1085"/>
+	<SubTexture name="ManifestExTransition0004" x="10" y="1105" width="1929" height="1085"/>
+	<SubTexture name="ManifestExTransition0005" x="1949" y="1105" width="1929" height="1085"/>
+	<SubTexture name="ManifestExTransition0006" x="3888" y="1105" width="1929" height="1085"/>
+	<SubTexture name="ManifestExTransition0007" x="5827" y="1105" width="1929" height="1085"/>
+	<SubTexture name="ManifestExTransition0008" x="10" y="2200" width="1929" height="1085"/>
+</TextureAtlas>

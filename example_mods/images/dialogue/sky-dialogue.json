@@ -1,0 +1,50 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "sky-dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-91,
+				-52
+			],
+			"loop_offsets": [
+				-91,
+				-52
+			],
+			"anim": "talk",
+			"idle_name": "portrait0017",
+			"loop_name": "portrait0"
+		},
+		{
+			"idle_offsets": [
+				-111,
+				-62
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				-111,
+				-62
+			],
+			"idle_name": "portrait an0017",
+			"loop_name": "portrait an"
+		},
+		{
+			"loop_name": "portrait mad",
+			"idle_offsets": [
+				-91,
+				-52
+			],
+			"idle_name": "portrait mad0017",
+			"anim": "manifest",
+			"loop_offsets": [
+				-91,
+				-52
+			]
+		}
+	]
+}

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mario.png"><SubTexture name="Mario idle0000" x="0" y="36" width="27" height="30" frameX="-11" frameY="-18" frameWidth="42" frameHeight="48" />
+<SubTexture name="Mario idle0001" x="23" y="0" width="19" height="31" frameX="-15" frameY="-17" frameWidth="42" frameHeight="48" />
+<SubTexture name="Mario idle0002" x="27" y="36" width="26" height="30" frameX="-11" frameY="-18" frameWidth="42" frameHeight="48" />
+<SubTexture name="Mario idle0003" x="23" y="0" width="19" height="31" frameX="-15" frameY="-17" frameWidth="42" frameHeight="48" />
+<SubTexture name="Mario left0000" x="76" y="0" width="34" height="30" frameX="0" frameY="-18" frameWidth="42" frameHeight="48" />
+<SubTexture name="Mario left0001" x="42" y="0" width="34" height="31" frameX="-2" frameY="-17" frameWidth="42" frameHeight="48" />
+<SubTexture name="Mario right0000" x="26" y="66" width="24" height="29" frameX="-11" frameY="-19" frameWidth="42" frameHeight="48" />
+<SubTexture name="Mario right0001" x="76" y="30" width="25" height="30" frameX="-12" frameY="-18" frameWidth="42" frameHeight="48" />
+<SubTexture name="Mario up0000" x="0" y="66" width="26" height="30" frameX="-16" frameY="0" frameWidth="42" frameHeight="48" />
+<SubTexture name="Mario up0001" x="0" y="0" width="23" height="36" frameX="-15" frameY="-9" frameWidth="42" frameHeight="48" />
+<SubTexture name="Mario down0000" x="78" y="66" width="29" height="24" frameX="-13" frameY="-24" frameWidth="42" frameHeight="48" />
+<SubTexture name="Mario down0001" x="50" y="66" width="28" height="25" frameX="-13" frameY="-23" frameWidth="42" frameHeight="48" />
+</TextureAtlas>

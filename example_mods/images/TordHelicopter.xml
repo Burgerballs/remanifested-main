@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TordHelicopter.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TordHelicopter0000" x="0" y="0" width="43" height="35" frameX="0" frameY="0" frameWidth="46" frameHeight="37"/>
+	<SubTexture name="TordHelicopter0001" x="0" y="0" width="43" height="35" frameX="0" frameY="0" frameWidth="46" frameHeight="37"/>
+	<SubTexture name="TordHelicopter0002" x="43" y="0" width="27" height="34" frameX="-7" frameY="-1" frameWidth="46" frameHeight="37"/>
+	<SubTexture name="TordHelicopter0003" x="43" y="0" width="27" height="34" frameX="-7" frameY="-1" frameWidth="46" frameHeight="37"/>
+	<SubTexture name="TordHelicopter0004" x="70" y="0" width="39" height="35" frameX="-7" frameY="-2" frameWidth="46" frameHeight="37"/>
+	<SubTexture name="TordHelicopter0005" x="70" y="0" width="39" height="35" frameX="-7" frameY="-2" frameWidth="46" frameHeight="37"/>
+	<SubTexture name="TordHelicopter0006" x="0" y="35" width="37" height="32" frameX="-3" frameY="-3" frameWidth="46" frameHeight="37"/>
+	<SubTexture name="TordHelicopter0007" x="0" y="35" width="37" height="32" frameX="-3" frameY="-3" frameWidth="46" frameHeight="37"/>
+	<SubTexture name="TordHelicopter0008" x="37" y="35" width="42" height="29" frameX="0" frameY="-3" frameWidth="46" frameHeight="37"/>
+	<SubTexture name="TordHelicopter0009" x="37" y="35" width="42" height="29" frameX="0" frameY="-3" frameWidth="46" frameHeight="37"/>
+</TextureAtlas>

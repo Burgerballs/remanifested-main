@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mark.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MarkIdle0000" x="10" y="10" width="414" height="677"/>
+	<SubTexture name="MarkIdle0001" x="10" y="10" width="414" height="677"/>
+	<SubTexture name="MarkIdle0002" x="434" y="10" width="414" height="677"/>
+	<SubTexture name="MarkIdle0003" x="434" y="10" width="414" height="677"/>
+	<SubTexture name="MarkIdle0004" x="858" y="10" width="414" height="677"/>
+	<SubTexture name="MarkIdle0005" x="858" y="10" width="414" height="677"/>
+	<SubTexture name="MarkIdle0006" x="1282" y="10" width="414" height="677"/>
+	<SubTexture name="MarkIdle0007" x="1282" y="10" width="414" height="677"/>
+	<SubTexture name="MarkIdle0008" x="10" y="697" width="414" height="677"/>
+	<SubTexture name="MarkIdle0009" x="10" y="697" width="414" height="677"/>
+	<SubTexture name="MarkIdle0010" x="10" y="697" width="414" height="677"/>
+	<SubTexture name="MarkIdle0011" x="10" y="697" width="414" height="677"/>
+	<SubTexture name="MarkIdle0012" x="10" y="697" width="414" height="677"/>
+	<SubTexture name="MarkIdle0013" x="10" y="697" width="414" height="677"/>
+</TextureAtlas>

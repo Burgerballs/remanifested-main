@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_offsets": [
+				-91,
+				-52
+			],
+			"anim": "manifest",
+			"idle_offsets": [
+				-91,
+				-52
+			],
+			"loop_name": "portrait mad",
+			"idle_name": "portrait mad0017"
+		}
+	],
+	"image": "skyex-dialogue"
+}

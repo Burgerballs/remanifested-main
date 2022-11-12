@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FakerIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				254,
+				-49
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FakerLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FakerDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FakerRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FakerUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EclipseMO",
+	"position": [
+		0,
+		60
+	],
+	"healthicon": "Eclipse",
+	"flip_x": false,
+	"healthbar_colors": [
+		68,
+		30,
+		68
+	],
+	"camera_position": [
+		-40,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

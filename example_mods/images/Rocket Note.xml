@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rocket Note.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Explosion0000" x="0" y="0" width="114" height="119" frameX="-123" frameY="-108" frameWidth="377" frameHeight="326"/>
+	<SubTexture name="Explosion0001" x="114" y="0" width="288" height="255" frameX="-38" frameY="-23" frameWidth="377" frameHeight="326"/>
+	<SubTexture name="Explosion0002" x="402" y="0" width="377" height="326"/>
+	<SubTexture name="Explosion0003" x="779" y="0" width="377" height="326"/>
+	<SubTexture name="Explosion0004" x="1156" y="0" width="301" height="309" frameX="-33" frameY="-5" frameWidth="377" frameHeight="326"/>
+	<SubTexture name="Explosion0005" x="1457" y="0" width="303" height="292" frameX="-26" frameY="-18" frameWidth="377" frameHeight="326"/>
+	<SubTexture name="Rocket!!!!0000" x="1760" y="0" width="165" height="383" frameX="0" frameY="0" frameWidth="165" frameHeight="419"/>
+	<SubTexture name="Rocket!!!!0001" x="0" y="383" width="162" height="403" frameX="-3" frameY="0" frameWidth="165" frameHeight="419"/>
+	<SubTexture name="Rocket!!!!0002" x="162" y="383" width="162" height="419" frameX="-3" frameY="0" frameWidth="165" frameHeight="419"/>
+	<SubTexture name="Rocket!!!!0003" x="324" y="383" width="162" height="396" frameX="-3" frameY="0" frameWidth="165" frameHeight="419"/>
+	<SubTexture name="Rocket!!!!0004" x="486" y="383" width="162" height="393" frameX="-3" frameY="0" frameWidth="165" frameHeight="419"/>
+	<SubTexture name="Target0000" x="648" y="383" width="175" height="171"/>
+</TextureAtlas>

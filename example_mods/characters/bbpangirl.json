@@ -1,0 +1,140 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				175,
+				80
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "sky up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				170,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "sky idle"
+		},
+		{
+			"offsets": [
+				170,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "sky idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				187,
+				79
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sky right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sky down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				175,
+				80
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sky up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				175,
+				80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sky left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				175,
+				80
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "sky left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				187,
+				79
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "sky right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bb-fangirl",
+	"position": [
+		-80,
+		190
+	],
+	"healthicon": "sky",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-100,
+		90
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Miko.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="miko down0000" x="10" y="10" width="702" height="816"/>
+	<SubTexture name="miko down0001" x="10" y="10" width="702" height="816"/>
+	<SubTexture name="miko down0002" x="722" y="10" width="702" height="816"/>
+	<SubTexture name="miko down0003" x="722" y="10" width="702" height="816"/>
+	<SubTexture name="miko down0004" x="1434" y="10" width="702" height="816"/>
+	<SubTexture name="miko down0005" x="1434" y="10" width="702" height="816"/>
+	<SubTexture name="miko down0006" x="1434" y="10" width="702" height="816"/>
+	<SubTexture name="miko down0007" x="1434" y="10" width="702" height="816"/>
+	<SubTexture name="miko idle0000" x="2146" y="10" width="688" height="828"/>
+	<SubTexture name="miko idle0001" x="2146" y="10" width="688" height="828"/>
+	<SubTexture name="miko idle0002" x="2844" y="10" width="688" height="828"/>
+	<SubTexture name="miko idle0003" x="2844" y="10" width="688" height="828"/>
+	<SubTexture name="miko idle0004" x="3542" y="10" width="688" height="828"/>
+	<SubTexture name="miko idle0005" x="3542" y="10" width="688" height="828"/>
+	<SubTexture name="miko idle0006" x="4240" y="10" width="688" height="828"/>
+	<SubTexture name="miko idle0007" x="4240" y="10" width="688" height="828"/>
+	<SubTexture name="miko idle0008" x="4938" y="10" width="688" height="828"/>
+	<SubTexture name="miko idle0009" x="4938" y="10" width="688" height="828"/>
+	<SubTexture name="miko idle0010" x="5636" y="10" width="688" height="828"/>
+	<SubTexture name="miko idle0011" x="5636" y="10" width="688" height="828"/>
+	<SubTexture name="miko idle0012" x="6334" y="10" width="688" height="828"/>
+	<SubTexture name="miko idle0013" x="6334" y="10" width="688" height="828"/>
+	<SubTexture name="miko idle0014" x="7032" y="10" width="688" height="828"/>
+	<SubTexture name="miko idle0015" x="7032" y="10" width="688" height="828"/>
+	<SubTexture name="miko left0000" x="10" y="848" width="688" height="808"/>
+	<SubTexture name="miko left0001" x="10" y="848" width="688" height="808"/>
+	<SubTexture name="miko left0002" x="708" y="848" width="688" height="808"/>
+	<SubTexture name="miko left0003" x="708" y="848" width="688" height="808"/>
+	<SubTexture name="miko left0004" x="1406" y="848" width="688" height="808"/>
+	<SubTexture name="miko left0005" x="1406" y="848" width="688" height="808"/>
+	<SubTexture name="miko left0006" x="2104" y="848" width="688" height="808"/>
+	<SubTexture name="miko left0007" x="2104" y="848" width="688" height="808"/>
+	<SubTexture name="miko left0008" x="2802" y="848" width="688" height="808"/>
+	<SubTexture name="miko left0009" x="2802" y="848" width="688" height="808"/>
+	<SubTexture name="miko right0000" x="3500" y="848" width="709" height="820"/>
+	<SubTexture name="miko right0001" x="3500" y="848" width="709" height="820"/>
+	<SubTexture name="miko right0002" x="4219" y="848" width="709" height="820"/>
+	<SubTexture name="miko right0003" x="4219" y="848" width="709" height="820"/>
+	<SubTexture name="miko right0004" x="4938" y="848" width="709" height="820"/>
+	<SubTexture name="miko right0005" x="4938" y="848" width="709" height="820"/>
+	<SubTexture name="miko right0006" x="5657" y="848" width="709" height="820"/>
+	<SubTexture name="miko right0007" x="5657" y="848" width="709" height="820"/>
+	<SubTexture name="miko up0000" x="6376" y="848" width="673" height="844"/>
+	<SubTexture name="miko up0001" x="6376" y="848" width="673" height="844"/>
+	<SubTexture name="miko up0002" x="7059" y="848" width="673" height="844"/>
+	<SubTexture name="miko up0003" x="7059" y="848" width="673" height="844"/>
+	<SubTexture name="miko up0004" x="10" y="1702" width="673" height="844"/>
+	<SubTexture name="miko up0005" x="10" y="1702" width="673" height="844"/>
+	<SubTexture name="miko up0006" x="10" y="1702" width="673" height="844"/>
+	<SubTexture name="miko up0007" x="10" y="1702" width="673" height="844"/>
+</TextureAtlas>

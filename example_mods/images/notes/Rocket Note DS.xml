@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rocket Note DS.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rocket!!!!0000" x="0" y="0" width="165" height="383" frameX="0" frameY="-36" frameWidth="165" frameHeight="419"/>
+	<SubTexture name="Rocket!!!!0001" x="165" y="0" width="162" height="403" frameX="-3" frameY="-16" frameWidth="165" frameHeight="419"/>
+	<SubTexture name="Rocket!!!!0002" x="327" y="0" width="162" height="419" frameX="-3" frameY="0" frameWidth="165" frameHeight="419"/>
+	<SubTexture name="Rocket!!!!0003" x="489" y="0" width="162" height="397" frameX="-3" frameY="-22" frameWidth="165" frameHeight="419"/>
+	<SubTexture name="Rocket!!!!0004" x="651" y="0" width="162" height="393" frameX="-3" frameY="-26" frameWidth="165" frameHeight="419"/>
+</TextureAtlas>

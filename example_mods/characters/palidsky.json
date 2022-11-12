@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				95
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sky_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				140
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sky_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				145
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sky_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				158
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sky_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				125
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sky_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/crack/palidsky_assets",
+	"position": [
+		0,
+		310
+	],
+	"healthicon": "bbsky",
+	"flip_x": true,
+	"healthbar_colors": [
+		102,
+		188,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

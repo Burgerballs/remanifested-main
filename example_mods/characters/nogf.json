@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				465,
+				900
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Notknuckles",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nogf",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "plgf",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		21,
+		54
+	],
+	"camera_position": [
+		0,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

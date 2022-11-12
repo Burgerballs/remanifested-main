@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "KysIdle"
+		},
+		{
+			"offsets": [
+				20,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "KysLeft"
+		},
+		{
+			"offsets": [
+				-16,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "KysRight"
+		},
+		{
+			"offsets": [
+				-6,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "KysDown"
+		},
+		{
+			"offsets": [
+				8,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "KysUp"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "bash1",
+			"indices": [],
+			"name": "KysTypeLeft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "bash2",
+			"indices": [],
+			"name": "KysTypeRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wits/Kys_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "kys",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		1,
+		200
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

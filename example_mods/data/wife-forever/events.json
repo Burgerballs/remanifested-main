@@ -1,0 +1,91 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro",
+						"Sky",
+						"By BBPanzu"
+					]
+				]
+			],
+			[
+				9000,
+				[
+					[
+						"Play Animation",
+						"oh",
+						"dad"
+					]
+				]
+			],
+			[
+				18600,
+				[
+					[
+						"Play Animation",
+						"oh",
+						"dad"
+					]
+				]
+			],
+			[
+				37800,
+				[
+					[
+						"Play Animation",
+						"dad",
+						"grr"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				57000,
+				[
+					[
+						"Play Animation",
+						"huh",
+						"dad"
+					]
+				]
+			],
+			[
+				81000,
+				[
+					[
+						"Play Animation",
+						"grr",
+						"dad"
+					]
+				]
+			],
+			[
+				85725,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sky-amim"
+					],
+					[
+						"Play Animation",
+						"ugh",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}

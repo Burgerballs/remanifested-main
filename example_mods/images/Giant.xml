@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Giant.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TwitterGiant0000" x="10" y="10" width="1195" height="995"/>
+	<SubTexture name="TwitterGiant0001" x="10" y="10" width="1195" height="995"/>
+	<SubTexture name="TwitterGiant0002" x="1215" y="10" width="1195" height="995"/>
+	<SubTexture name="TwitterGiant0003" x="1215" y="10" width="1195" height="995"/>
+	<SubTexture name="TwitterGiant0004" x="2420" y="10" width="1195" height="995"/>
+	<SubTexture name="TwitterGiant0005" x="2420" y="10" width="1195" height="995"/>
+	<SubTexture name="TwitterGiant0006" x="10" y="1015" width="1195" height="995"/>
+	<SubTexture name="TwitterGiant0007" x="10" y="1015" width="1195" height="995"/>
+	<SubTexture name="TwitterGiant0008" x="1215" y="1015" width="1195" height="995"/>
+	<SubTexture name="TwitterGiant0009" x="1215" y="1015" width="1195" height="995"/>
+	<SubTexture name="TwitterGiant0010" x="2420" y="1015" width="1195" height="995"/>
+	<SubTexture name="TwitterGiant0011" x="2420" y="1015" width="1195" height="995"/>
+	<SubTexture name="TwitterGiant0012" x="10" y="2020" width="1195" height="995"/>
+	<SubTexture name="TwitterGiant0013" x="10" y="2020" width="1195" height="995"/>
+	<SubTexture name="TwitterGiant0014" x="2420" y="1015" width="1195" height="995"/>
+	<SubTexture name="TwitterGiant0015" x="2420" y="1015" width="1195" height="995"/>
+</TextureAtlas>

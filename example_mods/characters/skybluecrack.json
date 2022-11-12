@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				64,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "skyblue_right"
+		},
+		{
+			"offsets": [
+				103,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "skyblue_left"
+		},
+		{
+			"offsets": [
+				83,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "skyblue_up"
+		},
+		{
+			"offsets": [
+				60,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "skyblue_down"
+		},
+		{
+			"offsets": [
+				86,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "skyblue_idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/crack/skyblue",
+	"position": [
+		190,
+		160
+	],
+	"healthicon": "bluesky",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-100,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

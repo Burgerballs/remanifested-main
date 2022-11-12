@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				240,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				180,
+				-75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				44,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				258,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				90,
+				-20
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Idle0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-100,
+				-400
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle-alt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FakerSky",
+	"position": [
+		160,
+		-360
+	],
+	"healthicon": "fakersky",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-175,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

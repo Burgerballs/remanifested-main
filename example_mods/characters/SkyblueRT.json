@@ -1,0 +1,107 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				308,
+				-250
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-241
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				53
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SkyblueRT",
+	"position": [
+		0,
+		-70
+	],
+	"healthicon": "sblueRT",
+	"flip_x": true,
+	"healthbar_colors": [
+		179,
+		49,
+		216
+	],
+	"camera_position": [
+		30,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

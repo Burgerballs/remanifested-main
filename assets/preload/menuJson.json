@@ -1,0 +1,13 @@
+{
+    "image": [
+        {
+            "path": "menu bracket",
+            "x": 0,
+            "y": 520
+        }
+    ],
+    "x": 100,
+    "ydiff": 100,
+    "diffx": 150,
+    "diffy": 25
+}

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Speaker.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SpeakerBoom0000" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0001" x="723" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0002" x="723" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0003" x="10" y="371" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0004" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0005" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0006" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0007" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0008" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0009" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0010" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0011" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0012" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0013" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0014" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0015" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0016" x="723" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0017" x="723" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0018" x="10" y="371" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0019" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0020" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0021" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0022" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0023" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0024" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0025" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0026" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0027" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0028" x="10" y="10" width="703" height="351"/>
+	<SubTexture name="SpeakerBoom0029" x="10" y="10" width="703" height="351"/>
+</TextureAtlas>

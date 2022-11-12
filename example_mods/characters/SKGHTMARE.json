@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sk 10",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sk 1 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sk 1 lright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sk 1 up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sk 1 down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SKGHTMARE",
+	"position": [
+		-160,
+		-290
+	],
+	"healthicon": "sk1",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		120,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

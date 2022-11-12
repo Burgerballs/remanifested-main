@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SKS_SPRITES2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sk 10000" x="10" y="10" width="823" height="850"/>
+	<SubTexture name="sk 10001" x="10" y="10" width="823" height="850"/>
+	<SubTexture name="sk 10002" x="843" y="10" width="823" height="850"/>
+	<SubTexture name="sk 10003" x="843" y="10" width="823" height="850"/>
+	<SubTexture name="sk 10004" x="1676" y="10" width="823" height="850"/>
+	<SubTexture name="sk 10005" x="1676" y="10" width="823" height="850"/>
+	<SubTexture name="sk 10006" x="2509" y="10" width="823" height="850"/>
+	<SubTexture name="sk 10007" x="2509" y="10" width="823" height="850"/>
+	<SubTexture name="sk 10008" x="10" y="870" width="823" height="850"/>
+	<SubTexture name="sk 10009" x="10" y="870" width="823" height="850"/>
+	<SubTexture name="sk 10010" x="10" y="870" width="823" height="850"/>
+	<SubTexture name="sk 10011" x="10" y="870" width="823" height="850"/>
+	<SubTexture name="sk 10012" x="10" y="870" width="823" height="850"/>
+	<SubTexture name="sk 10013" x="10" y="870" width="823" height="850"/>
+	<SubTexture name="sk 10014" x="10" y="870" width="823" height="850"/>
+	<SubTexture name="sk 10015" x="10" y="870" width="823" height="850"/>
+	<SubTexture name="sk 1 down0000" x="843" y="870" width="823" height="850"/>
+	<SubTexture name="sk 1 down0001" x="843" y="870" width="823" height="850"/>
+	<SubTexture name="sk 1 down0002" x="1676" y="870" width="823" height="850"/>
+	<SubTexture name="sk 1 down0003" x="1676" y="870" width="823" height="850"/>
+	<SubTexture name="sk 1 down0004" x="1676" y="870" width="823" height="850"/>
+	<SubTexture name="sk 1 down0005" x="1676" y="870" width="823" height="850"/>
+	<SubTexture name="sk 1 down0006" x="1676" y="870" width="823" height="850"/>
+	<SubTexture name="sk 1 down0007" x="1676" y="870" width="823" height="850"/>
+	<SubTexture name="sk 1 left0000" x="2509" y="870" width="838" height="821"/>
+	<SubTexture name="sk 1 left0001" x="2509" y="870" width="838" height="821"/>
+	<SubTexture name="sk 1 left0002" x="10" y="1730" width="838" height="821"/>
+	<SubTexture name="sk 1 left0003" x="10" y="1730" width="838" height="821"/>
+	<SubTexture name="sk 1 left0004" x="10" y="1730" width="838" height="821"/>
+	<SubTexture name="sk 1 left0005" x="10" y="1730" width="838" height="821"/>
+	<SubTexture name="sk 1 left0006" x="10" y="1730" width="838" height="821"/>
+	<SubTexture name="sk 1 left0007" x="10" y="1730" width="838" height="821"/>
+	<SubTexture name="sk 1 lright0000" x="858" y="1730" width="827" height="798"/>
+	<SubTexture name="sk 1 lright0001" x="858" y="1730" width="827" height="798"/>
+	<SubTexture name="sk 1 lright0002" x="1695" y="1730" width="827" height="798"/>
+	<SubTexture name="sk 1 lright0003" x="1695" y="1730" width="827" height="798"/>
+	<SubTexture name="sk 1 lright0004" x="1695" y="1730" width="827" height="798"/>
+	<SubTexture name="sk 1 lright0005" x="1695" y="1730" width="827" height="798"/>
+	<SubTexture name="sk 1 lright0006" x="1695" y="1730" width="827" height="798"/>
+	<SubTexture name="sk 1 lright0007" x="1695" y="1730" width="827" height="798"/>
+	<SubTexture name="sk 1 up0000" x="2532" y="1730" width="823" height="850"/>
+	<SubTexture name="sk 1 up0001" x="2532" y="1730" width="823" height="850"/>
+	<SubTexture name="sk 1 up0002" x="10" y="2590" width="823" height="850"/>
+	<SubTexture name="sk 1 up0003" x="10" y="2590" width="823" height="850"/>
+	<SubTexture name="sk 1 up0004" x="10" y="2590" width="823" height="850"/>
+	<SubTexture name="sk 1 up0005" x="10" y="2590" width="823" height="850"/>
+	<SubTexture name="sk 1 up0006" x="10" y="2590" width="823" height="850"/>
+	<SubTexture name="sk 1 up0007" x="10" y="2590" width="823" height="850"/>
+</TextureAtlas>

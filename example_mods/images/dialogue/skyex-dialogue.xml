@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skyex-dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="portrait mad0000" x="10" y="10" width="365" height="314"/>
+	<SubTexture name="portrait mad0001" x="385" y="10" width="365" height="314"/>
+	<SubTexture name="portrait mad0002" x="760" y="10" width="365" height="314"/>
+	<SubTexture name="portrait mad0003" x="1135" y="10" width="365" height="314"/>
+	<SubTexture name="portrait mad0004" x="1510" y="10" width="365" height="314"/>
+	<SubTexture name="portrait mad0005" x="10" y="334" width="365" height="314"/>
+	<SubTexture name="portrait mad0006" x="385" y="334" width="365" height="314"/>
+	<SubTexture name="portrait mad0007" x="760" y="334" width="365" height="314"/>
+	<SubTexture name="portrait mad0008" x="1135" y="334" width="365" height="314"/>
+	<SubTexture name="portrait mad0009" x="1510" y="334" width="365" height="314"/>
+	<SubTexture name="portrait mad0010" x="10" y="658" width="365" height="314"/>
+	<SubTexture name="portrait mad0011" x="385" y="658" width="365" height="314"/>
+	<SubTexture name="portrait mad0012" x="760" y="658" width="365" height="314"/>
+	<SubTexture name="portrait mad0013" x="1135" y="658" width="365" height="314"/>
+	<SubTexture name="portrait mad0014" x="1510" y="658" width="365" height="314"/>
+	<SubTexture name="portrait mad0015" x="10" y="982" width="365" height="314"/>
+	<SubTexture name="portrait mad0016" x="385" y="982" width="365" height="314"/>
+	<SubTexture name="portrait mad0017" x="760" y="982" width="365" height="314"/>
+</TextureAtlas>

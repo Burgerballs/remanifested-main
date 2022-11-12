@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "manifest",
+			"text": "YOU",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "skyex-dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "Ow... For fucks sake did you really have to scratch me?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "manifest",
+			"text": "YOU ARE THE BIGGEST BITCH I HAVE EVER\\nMET!!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "skyex-dialogue"
+		},
+		{
+			"expression": "manifest",
+			"text": "Oh look who the rude one is now!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "manifest",
+			"text": "SHUT UP SHUT UP SHUT UP!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "skyex-dialogue"
+		},
+		{
+			"expression": "manifest",
+			"text": "YOU DO NOT DESERVE HIM!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "skyex-dialogue"
+		},
+		{
+			"expression": "manifest",
+			"text": "What do you call this then manifest EX? You should go manifest some bitches instead",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "I'LL MAKE YOU EAT THOSE, YOU RED HEAD\\nSUCCUBUS!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "skyex-dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "Go shift to genshin impact, bitch :3",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "YOU ARE NOT HELPING!!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "THIS IS WHY SHE IS NOT MEANT TO BE YOURS. YOU SEE WHY I MUST DO THIS MY SWEET BOYFRIEND?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "skyex-dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "I AM HELPING YOU!!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "skyex-dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "YOU WILL NEVER HAVE TO WORRY ABOUT THIS RUDE BITCH EVER AGAIN",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "skyex-dialogue"
+		},
+		{
+			"expression": "shocked",
+			"text": "beep?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

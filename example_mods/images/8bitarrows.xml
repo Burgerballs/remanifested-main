@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="8bitarrows.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ArrowDOWN0000" x="10" y="10" width="120" height="110"/>
+	<SubTexture name="ArrowLEFT0000" x="140" y="10" width="110" height="120"/>
+	<SubTexture name="ArrowRIGHT0000" x="260" y="10" width="110" height="120"/>
+	<SubTexture name="ArrowUP0000" x="380" y="10" width="120" height="110"/>
+	<SubTexture name="Blue0000" x="140" y="10" width="110" height="120"/>
+	<SubTexture name="Green0000" x="380" y="10" width="120" height="110"/>
+	<SubTexture name="Purple0000" x="140" y="10" width="110" height="120"/>
+	<SubTexture name="Red0000" x="260" y="10" width="110" height="120"/>
+</TextureAtlas>

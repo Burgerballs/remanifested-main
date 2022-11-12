@@ -1,0 +1,59 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				-52
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "SkyHeart",
+			"indices": []
+		},
+		{
+			"offsets": [
+				498,
+				290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [
+				20,
+				21
+			],
+			"name": "DeathLoop"
+		},
+		{
+			"offsets": [
+				498,
+				290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "DeathLoop"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/SkyDeath",
+	"position": [
+		120,
+		0
+	],
+	"healthicon": "sky",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		96,
+		203
+	],
+	"camera_position": [
+		-80,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

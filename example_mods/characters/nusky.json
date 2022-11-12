@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "kit left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-25
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "kit down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				19
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "kit up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "kit right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "kit idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nusky",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "nusky",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-90,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "theManifest",
+		"player1": "bf",
+		"player2": "manifestskyex",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Toggle Trail",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-crucifix",
+		"bpm": 225,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Manifest-high"
+	}
+}
