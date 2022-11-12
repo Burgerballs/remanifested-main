@@ -348,7 +348,9 @@ function goodNoteHit(id, direction, noteType, isSustainNote) --slide bf and slid
                 setProperty("health", getProperty("health") + 0.03)
 	end
 	if noteType == 'Opponent Sing' and dadName == 'slide-edd' then
-		setPropertyFromClass('GameOverSubstate', 'characterName', 'edd-dead');
+		setPropertyFromClass('GameOverSubstate', 'characterName', 'skyDeath');
+		setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'UndertaleDeathSound');
+		setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'Avril14');
 		setProperty('dad.y', -500);
 		setProperty('dad.x', 250);
 		doTweenY('EddTweenY', 'dad', -200, 1, 'cubeIn');
@@ -390,6 +392,11 @@ function onTweenCompleted(tag)
 	end
 end
 
+function onGameOver()
+
+setProperty('camGame.zoom',0.8)
+setProperty('defaultCamZoom',0.8)
+end
 function onTimerCompleted(tag, loops, loopsLeft)
 	if tag == 'doorGoesInvis' then
 		setProperty('doorOpen.alpha', 0);

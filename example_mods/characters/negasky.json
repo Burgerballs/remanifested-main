@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "SkyIdle",
-			"indices": []
+			"indices": [],
+			"name": "SkyIdle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				6,
-				-2
+				24,
+				-3
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "SkyLeft",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SkyLeft"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				-14
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "SkyDown",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SkyDown"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-1,
 				3
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "SkyUp",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "SkyUp"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-34,
-				-4
+				-32,
+				4
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "SkyRight",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SkyRight"
 		}
 	],
 	"no_antialiasing": false,

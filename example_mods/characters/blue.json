@@ -1,0 +1,183 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "blue idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "blue left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "blue down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "blue up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "blue right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-1
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "blue alt left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-7
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "blue alt down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				12
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "blue alt up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "blue alt right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				41
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "blue moan",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				41
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "blue alt idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				36,
+				41
+			],
+			"anim": "idle-alt-loop",
+			"fps": 24,
+			"name": "blue alt idle",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/blue",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "blue",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		15
+	],
+	"camera_position": [
+		-90,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

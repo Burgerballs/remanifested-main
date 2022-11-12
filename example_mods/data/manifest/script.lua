@@ -92,25 +92,8 @@ function onTimerCompleted(tag, loops, loopsLeft)
 	if tag == 'startDialogue' then -- Timer completed, play dialogue
 		startDialogue('dialogue', 'The Manifest');
 	end
-end
-local allowCountdown = false
-
-function onEndSong()
-    endstops = endstops + 1
-        if endstops == 1 then
-            
-            
-            runTimer('endshit',1)
-            
-            return Function_Stop;
-            
-        end
-    return Function_Continue;
-end
-function onTimerCompleted(tag, loops, loopsLeft)
 	if tag == 'endshit' then
         setProperty('camHUD._fxFadeAlpha', 0);
-        cameraFlash('hud','000000',1)
         endrand = math.random(1, 100)
 
         if endrand >= 30 then
@@ -125,6 +108,22 @@ function onTimerCompleted(tag, loops, loopsLeft)
             makeLuaSprite('endcock','manifest-endings/ending3')
 	    end
         addLuaSprite('endcock',true)
-        setObjectCamera('endcock','camHUD')
-    end
+        setObjectCamera('endcock','other')
+        cameraFlash('other','000000',1)
+        end
+end
+
+function onEndSong()
+	if isStoryMode then
+    endstops = endstops + 1
+        if endstops == 1 then
+            
+            
+            runTimer('endshit',0.1)
+            
+            return Function_Stop;
+            
+        end
+    return Function_Continue;
+end
 end

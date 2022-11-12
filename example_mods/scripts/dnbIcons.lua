@@ -10,7 +10,7 @@ end
 
 turnvalue = 10
 function doDaBeat()
-
+if songName ~= 'obscurity' then
     if curBeat % 1 == 0 then
         turnvalue = -turnvalue
         for i = 1,2 do
@@ -21,5 +21,5 @@ function doDaBeat()
             doTweenY('iconTweena' .. i,'iconP' .. i .. '.scale',1,crochet/1000,'circOut')
         end
     end
-
+end
 end

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Manifest.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="portrait0000" x="10" y="10" width="459" height="396"/>
+	<SubTexture name="portrait0001" x="479" y="10" width="459" height="396"/>
+	<SubTexture name="portrait0002" x="948" y="10" width="459" height="396"/>
+	<SubTexture name="portrait0003" x="1417" y="10" width="459" height="396"/>
+	<SubTexture name="portrait0004" x="10" y="416" width="459" height="396"/>
+	<SubTexture name="portrait0005" x="479" y="416" width="459" height="396"/>
+	<SubTexture name="portrait mad0000" x="948" y="416" width="459" height="397"/>
+	<SubTexture name="portrait mad0001" x="1417" y="416" width="459" height="397"/>
+	<SubTexture name="portrait mad0002" x="10" y="823" width="459" height="397"/>
+	<SubTexture name="portrait mad0003" x="479" y="823" width="459" height="397"/>
+	<SubTexture name="portrait mad0004" x="948" y="823" width="459" height="397"/>
+	<SubTexture name="portrait mad0005" x="1417" y="823" width="459" height="397"/>
+</TextureAtlas>

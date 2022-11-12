@@ -3,28 +3,6 @@
 		{
 			"offsets": [
 				0,
-				9
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "bash2",
-			"indices": [],
-			"name": "LuaTypeRight"
-		},
-		{
-			"offsets": [
-				0,
-				5
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "bash1",
-			"indices": [],
-			"name": "LuaTypeLeft"
-		},
-		{
-			"offsets": [
-				0,
 				0
 			],
 			"loop": false,
@@ -35,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-1,
+				-8
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				6
+				31,
+				3
 			],
 			"loop": false,
 			"fps": 24,
@@ -58,7 +36,7 @@
 		{
 			"offsets": [
 				0,
-				-6
+				-12
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,14 +46,36 @@
 		},
 		{
 			"offsets": [
-				1,
-				5
+				30,
+				-2
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
 			"name": "LuaRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-6
+			],
+			"anim": "bash2",
+			"fps": 24,
+			"name": "LuaTyping2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-2
+			],
+			"anim": "bash1",
+			"fps": 24,
+			"name": "LuaTyping1",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,

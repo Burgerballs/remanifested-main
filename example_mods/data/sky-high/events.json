@@ -1,0 +1,91 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"IntroMusic",
+						"Sky High - Dismissor/Savestate Corrupted (OG by BBPanzu)",
+						""
+					]
+				]
+			],
+			[
+				8823.5294117647,
+				[
+					[
+						"Play Animation",
+						"oh",
+						"dad"
+					]
+				]
+			],
+			[
+				18235.2941176471,
+				[
+					[
+						"Play Animation",
+						"oh",
+						"dad"
+					]
+				]
+			],
+			[
+				37058.8235294118,
+				[
+					[
+						"Play Animation",
+						"grr",
+						"dad"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				55882.3529411765,
+				[
+					[
+						"Play Animation",
+						"huh",
+						"dad"
+					]
+				]
+			],
+			[
+				74705.8823529412,
+				[
+					[
+						"Play Animation",
+						"huh",
+						"dad"
+					]
+				]
+			],
+			[
+				79411.7647058824,
+				[
+					[
+						"Play Animation",
+						"grr",
+						"dad"
+					]
+				]
+			],
+			[
+				84044.1176470589,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}

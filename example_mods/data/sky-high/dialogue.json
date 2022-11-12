@@ -14,7 +14,7 @@
 			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "sky-dialogue"
+			"portrait": "osky-dialogue"
 		},
 		{
 			"expression": "talk",
@@ -30,7 +30,7 @@
 			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "sky-dialogue"
+			"portrait": "osky-dialogue"
 		},
 		{
 			"expression": "talk",
@@ -46,7 +46,7 @@
 			"boxState": "normal",
 			"sound": "",
 			"speed": 0.0499999999999999,
-			"portrait": "sky-dialogue"
+			"portrait": "osky-dialogue"
 		},
 		{
 			"expression": "talk",
@@ -60,7 +60,7 @@
 			"expression": "pissed",
 			"text": "N-NO WAIT!!!",
 			"boxState": "normal",
-			"portrait": "sky-dialogue",
+			"portrait": "osky-dialogue",
 			"speed": 0.05,
 			"sound": ""
 		}

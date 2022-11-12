@@ -5,19 +5,15 @@ function onCreate()
     makeLuaSprite('crezy', nil, 0, 0)
 	addLuaSprite('whit', false)
 
-    makeLuaSprite('whit', nil, -600, -300)
-	makeGraphic('whit', 3000, 2000, 'FFFFFF')
+    makeLuaSprite('whit', 'bgmuk', 200, -300)
 	addLuaSprite('whit', false)
+    scaleObject('whit', 1.5, 1.5)
 
-    makeLuaSprite('wittable', 'bg/arse/wit-table', 200,400)
+    makeLuaSprite('wittable', 'tablemuk', 200,400)
     scaleObject('wittable', 1.5, 1.5)
-    setScrollFactor('wittable', 0.6, 0.3);
+    setScrollFactor('wittable', 1, 0.3);
     addLuaSprite('wittable', true)
 
-    makeLuaSprite('ce', 'ches', 700,400)
-    scaleObject('ce', 0.5, 0.5)
-    setScrollFactor('ce', 0.7, 0.4);
-    addLuaSprite('ce', true)
 
     makeAnimatedLuaSprite('amongle', 'greenmongle_speen', 1100,0);
 	addAnimationByPrefix('amongle', 'mongle', 'greenamongle_spin', 24, true)

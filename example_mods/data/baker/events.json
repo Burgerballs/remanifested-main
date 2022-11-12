@@ -1,0 +1,51 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"SkyDeath",
+						"",
+						""
+					]
+				]
+			],
+			[
+				75,
+				[
+					[
+						"IntroMusic",
+						"Baker - DragonBoi06",
+						""
+					]
+				]
+			],
+			[
+				150,
+				[
+					[
+						"Intro",
+						"Faker Sky",
+						"Owned by Fakerskyanon"
+					]
+				]
+			],
+			[
+				21000,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					],
+					[
+						"Alt Idle Animation",
+						"bf",
+						"-alt"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,5 +1,5 @@
 local xx = 520;
-local yy = 450;
+local yy = 320;
 local xx2 = 820;
 local yy2 = 450;
 local ofs = 60;
@@ -68,7 +68,7 @@ end
 function opponentNoteHit()
     health = getProperty('health')
     if getProperty('health') > 0.05 then
-        setProperty('health', health- 0.005);
+        setProperty('health', health- 0.007);
     end
 end
 

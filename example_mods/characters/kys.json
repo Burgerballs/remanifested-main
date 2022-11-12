@@ -1,81 +1,81 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "KysIdle"
+			"fps": 24,
+			"name": "KysIdle",
+			"indices": []
 		},
 		{
-			"offsets": [
-				20,
-				8
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				41,
+				20
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "KysLeft"
+			"fps": 24,
+			"name": "KysLeft",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-16,
-				7
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-12,
+				-4
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "KysRight"
-		},
-		{
-			"offsets": [
-				-6,
-				-2
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "KysDown"
+			"name": "KysRight",
+			"indices": []
 		},
 		{
-			"offsets": [
-				8,
-				8
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "KysUp"
-		},
-		{
 			"offsets": [
-				-1,
+				1,
 				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "KysDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				19
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "KysUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				74,
+				-13
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "bash1",
 			"indices": [],
-			"name": "KysTypeLeft"
+			"name": "KysTyping1"
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-3,
+				-13
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "bash2",
 			"indices": [],
-			"name": "KysTypeRight"
+			"name": "KysTyping2"
 		}
 	],
 	"no_antialiasing": false,
@@ -85,7 +85,7 @@
 		0
 	],
 	"healthicon": "kys",
-	"flip_x": false,
+	"flip_x": true,
 	"healthbar_colors": [
 		160,
 		1,

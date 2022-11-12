@@ -3,18 +3,14 @@
 	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
+	"weekBefore": "weeks",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "weeks",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": true,
 	"songs": [
 		[
 			"sez",
@@ -27,7 +23,7 @@
 		],
 		[
 			"Battle Of Wits",
-			"kys",
+			"BOW",
 			[
 				0,
 				0,
@@ -54,7 +50,7 @@
 		],
 		[
 			"Wife Whenever high",
-			"sky",
+			"blank",
 			[
 				255,
 				255,
@@ -87,9 +83,22 @@
 				40,
 				40
 			]
+		],
+		[
+			"Mukbang",
+			"Carol",
+			[
+				106,
+				113,
+				155
+			]
 		]
 	],
-	"hideStoryMode": true,
-	"weekName": "OtherSkySongs",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "OtherSkySongs"
 }

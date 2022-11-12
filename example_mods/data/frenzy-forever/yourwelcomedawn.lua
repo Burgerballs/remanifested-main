@@ -1,5 +1,4 @@
 particlesExist = false
-
 radius = 500
 danced = false
 
@@ -17,13 +16,11 @@ function onCreatePost()
     addLuaSprite('gfsa')
     setProperty('gfsa.visible', false)
 
-    makeLuaSprite('bg3', 'LexiFloor', -800, 820)
-    addLuaSprite('bg3')
 
     addLuaSprite('silo', false)
 
-    setObjectOrder('gfsa', getObjectOrder('bg3') - 1)
-    setObjectOrder('silo', getObjectOrder('bg3') + 1)
+    setObjectOrder('gfsa', getObjectOrder('bg8') - 1)
+    setObjectOrder('silo', getObjectOrder('bg8') + 1)
 
     makeAnimatedLuaSprite('gfs', 'SpeakersOnly', originx + 20, originy - 200)
     addAnimationByIndices('gfs', 'dan', 'GF Dancing Beat', '30,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14', 24)
@@ -45,11 +42,11 @@ function onBeatHit()
     objectPlayAnimation('gfs', 'dan', true)
     
     if curBeat == 288 then
-        activateSillyMode(true)
+        activateSillyMode(true, true)
     end
 
     if curBeat == 356 then
-        activateSillyMode(false)
+        activateSillyMode(false, false)
     end
 
     if curBeat == 644 then
@@ -76,6 +73,7 @@ function activateSillyMode(active, silliness)
         end
     else
         cameraFlash('hud', 'FFFFFF', 1)
+        particlesExist = false;
         setProperty('silo.visible', false)
         setProperty('gfsa.visible', false)
         if silliness == true then
@@ -130,4 +128,12 @@ function particleTimer()
 	doTweenX(tag..'ScaleX', tag..'.scale', 0, particleTime, 'linear');
 	doTweenY(tag..'ScaleY', tag..'.scale', 0, particleTime, 'linear');
 	doTweenX(tag..'SpeedY', tag..'.velocity', velX * 0.75, particleTime/2, 'linear');
+end
+
+function onUpdate()
+        if particlesExist == false then
+                particleTime = 0.01;
+        else
+                particleTime = 10;
+        end
 end

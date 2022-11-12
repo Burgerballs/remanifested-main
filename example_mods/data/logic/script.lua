@@ -1,5 +1,14 @@
 dadada = 0
 function onCreatePost()
+	makeLuaSprite('white', 'White', -200, -100);
+	setScrollFactor('white', 0, 0);
+	scaleObject('white', 1.4, 1.4)
+	addLuaSprite('white', true);
+        setProperty('white.alpha', 0.0);
+	makeLuaSprite('black', 'Black', -200, -100);
+	setScrollFactor('black', 0, 0);
+	scaleObject('black', 1.4, 1.4)
+	addLuaSprite('black', true);
 if difficulty == 1 then
     forceDownScroll()
 end
@@ -27,4 +36,9 @@ if difficulty == 1 then
         setPropertyFromGroup('strumLineNotes', i, 'direction', dadada)
     end
 end
+end
+function onSongStart()
+        setProperty('black.alpha', 0);
+           setProperty('white.alpha', 1);
+           doTweenAlpha('hudFunne', 'white', 0, 0.75, 'quadIn')
 end

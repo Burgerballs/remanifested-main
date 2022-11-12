@@ -1,70 +1,70 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "carol_idle"
+			"fps": 24,
+			"name": "carol_idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				64,
 				-15
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "carol_left"
+			"fps": 24,
+			"name": "carol_left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-7,
 				-16
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "carol_down"
+			"fps": 24,
+			"name": "carol_down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				12
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "carol_up"
+			"fps": 24,
+			"name": "carol_up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-6,
 				5
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "carol_right"
+			"fps": 24,
+			"name": "carol_right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				20,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "look",
-			"loop": false,
-			"name": "carol_look"
+			"fps": 24,
+			"name": "carol_look",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -73,12 +73,12 @@
 		0,
 		0
 	],
-	"healthicon": "face",
+	"healthicon": "carol",
 	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		102,
+		102,
+		153
 	],
 	"camera_position": [
 		0,

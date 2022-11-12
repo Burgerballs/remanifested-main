@@ -5193,22 +5193,52 @@
 				"bpm": 162.5
 			},
 			{
-				"gfSection": false,
 				"lengthInSteps": 16,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
 				"bpm": 162.5,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
 			{
-				"gfSection": false,
 				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 162.5,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 162.5
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 162.5
+			},
+			{
+				"gfSection": false,
 				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
 				"bpm": 162.5,
+				"sectionBeats": 4,
 				"changeBPM": false,
 				"mustHitSection": true
 			}
@@ -5221,6 +5251,46 @@
 						"PixelDeath",
 						"",
 						""
+					]
+				]
+			],
+			[
+				92.3076923076923,
+				[
+					[
+						"Intro",
+						"Mario",
+						"Copyright of nintendo"
+					]
+				]
+			],
+			[
+				184.615384615385,
+				[
+					[
+						"IntroMusic",
+						"Overfilled - Techpack",
+						""
+					]
+				]
+			],
+			[
+				1476.92307692308,
+				[
+					[
+						"Intro",
+						"Yes mario's a sky now",
+						" "
+					]
+				]
+			],
+			[
+				2953.84615384615,
+				[
+					[
+						"Intro",
+						"Lol",
+						" "
 					]
 				]
 			]

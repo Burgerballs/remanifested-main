@@ -1,8 +1,8 @@
 function onCreate()
-	if dadName == 'manifestskyex' then
-		makeAnimatedLuaSprite('animatedicon', 'icons/icon-manifestexanim', getProperty('iconP2.x'), getProperty('iconP2.y'))
-		addAnimationByPrefix('animatedicon', 'normal', 'ManifestNormalIcon', 200, true)
-		addAnimationByPrefix('animatedicon', 'losing', 'ManifestAngryIcon', 300, true)
+	if dadName == 'manifested' then
+		makeAnimatedLuaSprite('animatedicon', 'icons/OskyManifest', getProperty('iconP2.x'), getProperty('iconP2.y'))
+		addAnimationByPrefix('animatedicon', 'normal', 'OskyNormal', 24, true)
+		addAnimationByPrefix('animatedicon', 'losing', 'OskyMad', 24, true)
 		setScrollFactor('animatedicon', 0, 0)
 		setObjectCamera('animatedicon', 'hud')
                 setObjectOrder('animatedicon', getObjectOrder("iconP2"))
@@ -20,17 +20,14 @@ function onUpdate(elapsed)
 	else
 	setProperty('iconP2.alpha', 1)
 	end
-	if dadName == 'manifestskyex' then
 		if getProperty('health') > 1.6 then
 			objectPlayAnimation('animatedicon', 'losing', false)
 		else
 			objectPlayAnimation('animatedicon', 'normal', false)
 		end
-	end
 	setProperty('camOther.zoom', getProperty('camHUD.zoom'))
 	setProperty('animatedicon.x', getProperty('iconP2.x'))
-	setProperty('animatedicon.angle', getProperty('iconP2.angle'))
-	setProperty('animatedicon.y', getProperty('iconP2.y') + 15)
+	setProperty('animatedicon.y', getProperty('iconP2.y'))
 	setProperty('animatedicon.scale.x', getProperty('iconP2.scale.x'))
 	setProperty('animatedicon.scale.y', getProperty('iconP2.scale.y'))
 end

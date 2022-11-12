@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Manifest bar.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Manifest bar instance 10000" x="0" y="0" width="303" height="149"/>
+	<SubTexture name="Manifest bar instance 10001" x="0" y="0" width="303" height="149"/>
+	<SubTexture name="Manifest bar instance 10002" x="0" y="0" width="303" height="149"/>
+	<SubTexture name="Manifest bar instance 10003" x="0" y="0" width="303" height="149"/>
+	<SubTexture name="Manifest bar instance 10004" x="0" y="0" width="303" height="149"/>
+	<SubTexture name="Manifest bar instance 10005" x="0" y="0" width="303" height="149"/>
+	<SubTexture name="Manifest bar instance 10006" x="0" y="149" width="303" height="148" frameX="0" frameY="-1" frameWidth="303" frameHeight="149"/>
+	<SubTexture name="Manifest bar instance 10007" x="0" y="149" width="303" height="148" frameX="0" frameY="-1" frameWidth="303" frameHeight="149"/>
+	<SubTexture name="Manifest bar instance 10008" x="0" y="149" width="303" height="148" frameX="0" frameY="-1" frameWidth="303" frameHeight="149"/>
+	<SubTexture name="Manifest bar instance 10009" x="0" y="149" width="303" height="148" frameX="0" frameY="-1" frameWidth="303" frameHeight="149"/>
+	<SubTexture name="Manifest bar instance 10010" x="0" y="149" width="303" height="148" frameX="0" frameY="-1" frameWidth="303" frameHeight="149"/>
+	<SubTexture name="Manifest bar instance 10011" x="0" y="149" width="303" height="148" frameX="0" frameY="-1" frameWidth="303" frameHeight="149"/>
+	<SubTexture name="Manifest bar instance 10012" x="0" y="297" width="303" height="148" frameX="0" frameY="-1" frameWidth="303" frameHeight="149"/>
+	<SubTexture name="Manifest bar instance 10013" x="0" y="297" width="303" height="148" frameX="0" frameY="-1" frameWidth="303" frameHeight="149"/>
+	<SubTexture name="Manifest bar instance 10014" x="0" y="297" width="303" height="148" frameX="0" frameY="-1" frameWidth="303" frameHeight="149"/>
+	<SubTexture name="Manifest bar instance 10015" x="0" y="297" width="303" height="148" frameX="0" frameY="-1" frameWidth="303" frameHeight="149"/>
+	<SubTexture name="Manifest bar instance 10016" x="0" y="297" width="303" height="148" frameX="0" frameY="-1" frameWidth="303" frameHeight="149"/>
+	<SubTexture name="Manifest bar instance 10017" x="0" y="297" width="303" height="148" frameX="0" frameY="-1" frameWidth="303" frameHeight="149"/>
+	<SubTexture name="Manifest bar instance 10018" x="0" y="297" width="303" height="148" frameX="0" frameY="-1" frameWidth="303" frameHeight="149"/>
+</TextureAtlas>

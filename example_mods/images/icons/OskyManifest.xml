@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OskyManifest.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="OskyMad0000" x="10" y="10" width="137" height="155"/>
+	<SubTexture name="OskyMad0001" x="157" y="10" width="137" height="155"/>
+	<SubTexture name="OskyMad0002" x="304" y="10" width="137" height="155"/>
+	<SubTexture name="OskyMad0003" x="10" y="175" width="137" height="155"/>
+	<SubTexture name="OskyNormal0000" x="157" y="175" width="137" height="155"/>
+	<SubTexture name="OskyNormal0001" x="304" y="175" width="137" height="155"/>
+	<SubTexture name="OskyNormal0002" x="10" y="340" width="137" height="155"/>
+	<SubTexture name="OskyNormal0003" x="157" y="340" width="137" height="155"/>
+</TextureAtlas>

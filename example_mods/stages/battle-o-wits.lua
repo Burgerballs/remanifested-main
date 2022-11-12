@@ -11,7 +11,7 @@ function onCreatePost()
     setScrollFactor('witbg', 0, 0);
     addLuaSprite('witbg', false)
 
-    makeLuaSprite('wittable', 'bg/arse/wit-table', -50,480)
+    makeLuaSprite('wittable', 'bg/arse/wit-table', -50,530)
     setScrollFactor('wittable', 0, 0);
     scaleObject('wittable', 1.25 , 1.25)
     addLuaSprite('wittable', false)
@@ -30,7 +30,7 @@ function onCreatePost()
     addLuaSprite('fuck', true)
     setProperty('fuck.visible', false)
     setProperty('fuck.color', '000000')
-    setProperty('boyfriend.flipX', false)
+    setProperty('boyfriend.flipX', true)
 
     makeLuaText("biblua", keyboarddestine, 250, 480, 800)
     setTextAlignment("biblua", 'center')

@@ -12,7 +12,7 @@ end
 
 function onTimerCompleted(tag, loops, loopsLeft)
 	if tag == 'startDialogue' then -- Timer completed, play dialogue
-		startDialogue('dialogue', 'The Shift');
+		startDialogue('dialogueex', 'The Shift');
 	end
 end
 

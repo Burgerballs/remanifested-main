@@ -1,17 +1,31 @@
+
 Sky Remanifested Team
-BB-Panzu::bb::Creator of the original VS Sky mod, made ExpUrggAtion, the Sky chromatic scale, and also the song Blue::::0xFF0C74CB
-Bluefrok::frok::Creator of Ski, made sprites for Challeng-sky, made the credit portraits and made a showcase video::::0xFF0C74CB
-Rodrigo::rodrigo::Main coder for Sky Remanifested::::0xFF0C74CB
-Dismissor::dismissor::Main artist, composer, and charter of the mod, made most of the song sprites and menu sprites also made the menu songs::::0xFF0C74CB
-Donut::donut::Programmer and animator of the mod, animated the Light Blue sprites, also fixed a lot of errors that we had in the songs::https://www.twitter.com/amnotdonut::0xFF0C74CB
-Dra9on5::dra9on::Made charts for Light Blue and for Overfilled also helped with the Challeng-Sky covers::::0xFF0C74CB
-DragonBoi06::fart2::Main composer of the mod, composed the Wife Forever High remix, Crack, Sky Says and Light Blue::::0xFF0C74CB
-Ghospel::ghospel::Artist of the Light Blue sprites and the Overfilled sprites::https://twitter.com/Ghospel_ghost::0xFF0C74CB
-Liam::liam::Composer of the song Overfilled::::0xFF0C74CB
-YPG::ypg::Composer of the Sky High remix and the Manifest High remix::https://twitter.com/ypgtheguypg::0xFF0C74CB
-Loogi::loogi::Drew the original lexi sprites, also made a banner and thumbnail for the Challeng-Sky mod::::0xFF0C74CB
-Carl::carl::'Artist of the songs Sky Says and Crack, also made the cutscene for Sky Says::https://www.youtube.com/channel/UCk3Me0dhvFfMlfkbgLE8JOQ::0xFF0C74CB
-Skieonsta::skieon::Voice Actor of Ski and Lexi made some lines for the Challeng-Sky Ski Mix::::0xFF0C74CB
-Zapato::zapato::Made icons for Light Blue and Challeng-Sky Ski Mix::https://twitter.com/ZapatoImbecil?t=ok0b-UrOn-yy1xyGB1DS6g&s=09::0xFF0C74CB
-Jelly::jelly::Helped on some charts for the mod::::0xFF0C74CB
-MinusPlus::MinusPlus::Source Code Port/Build::::0xFF0C74CB
+Dismissor::dismissor::Director, Artist, Animator, Coder, Charter, Musician, VA, Owner of Trusky::https://twitter.com/blankmissor::0xFF1111FF
+LoogiTheOne::loogi::Director, Artist, Animator, Owner of Sk8R Sky::https://twitter.com/MugiwaraNoLoogi::0xFF00BB00
+Myke::burger::Main Programmer of Remanifested::https://twitter.com/burgerballs9::0xFFFF55CC
+BB-Panzu::bb::Musician, VA, Made the original sky mod::https://twitter.com/bbpnz213::0xFF00CC00
+Dawn::dra9on::VA, Charter, Owner of Lexi, Owner of Rhapsody Sky, Cover Creator::https://twitter.com/Dra9onSlayer5::0xFF880077
+SavestateCorrupted::Savestate::Composer::https://twitter.com/savestate_crptd::0xFFFFCC00
+Donut::donut::V1 Coder and Animator::https://www.twitter.com/amnotdonut::0xFF00CC00
+DragonBoi06::fart2::Composer::https://twitter.com/DragonBoi06::0xFF0C74CB
+Ghospel::ghospel::Artist, Owner of Parasol Sky::https://twitter.com/Ghospel_ghost::0xFFDDDDDD
+Techpack::Techpack::V1 Composer::https://twitter.com/Techpack_64::0xFFDDDD00
+YPG::ypg::Composer::https://twitter.com/ypgreal?t=mzti3wue3kp80G-dzcCSxg&s=09::0xFFDDDD00
+Skieonsta::skieon::VA, We haven't seen Skieonsta in a while and we miss you::::0xFF880077
+Zapato::zapato::Artist::https://twitter.com/ZapatoImbecil?t=ok0b-UrOn-yy1xyGB1DS6g&s=09::0xFFCC99CC
+Kakow0::kakowo::Musician::https://twitter.com/lowdarks::0xFF00CCFF
+AidenIsABot::Aiden::Artist, Animator::https://twitter.com/pixiexia_?s=21&t=fXzbblasNBUUd0eEqNgdAg::0xFFFF77CC
+PlushtrapDev::Plushtra::Charter::https://gamebanana.com/members/1838234::0xFF00CC00
+Rodrigo::rodrigo::Previous Coder of Remanifested, Artist, Null Object Reference::https://twitter.com/chimatatouhou::0xFF0C74CB
+Charliette the Succubus::Charliette::UI Artist,Playtester::https://twitter.com/charlies2133::0xFF00CC00
+LiminalStarBoy::Majii::Artist (Created the Banner)::https://twitter.com/liminalstarboy::0xFFCC0000
+ILikeDolphins::Dolphin::Charter, Playtester::https://twitter.com/ilikedolphins05::0xFFFFFFFF
+FoxGamin::Fox::Animator::https://twitter.com/foxgamin_::0xFFFFDD00
+Carl::carl::Animator, Artist::https://www.youtube.com/channel/UCk3Me0dhvFfMlfkbgLE8JOQ::0xFF0C74CB
+Bluefrok::frok::Artist, Animator, Owner of Ski::https://twitter.com/Bluefrok::0xFF0C74CB
+ManibyJelly::jelly::V1 Charter::https://github.com/ManibyJelly::0xFF0C74CB
+SkyblueAnon::4chan::Concept Artist, Owner of Skyblue::https://twitter.com/Chikiababy1::0xFF00FFE6To you reading this
+Silly Section
+Archer::Archer::Being silly -Archer pet emote-::https://twitter.com/LaCancerina::0xFF6066D5
+Kid Named Finger::Finger::Background Checks, Security::https://breakingbad.fandom.com/wiki/Mike_Ehrmantraut::0xFF333333
+The Dud::Dud::You got it::https://www.youtube.com/watch?v=2gB-Vcyrk8s&t=::0xFF0000BB

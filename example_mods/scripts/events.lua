@@ -34,6 +34,25 @@ function onCreate()
 	setObjectCamera('JukeBoxSubText', 'other')
 	setTextSize('JukeBoxSubText', IntroSubTextSize)
 	addLuaText('JukeBoxSubText')
+
+	--the box
+	makeLuaSprite('JukeBox2', 'empty', 895-IntroTagWidth, 535)
+	makeGraphic('JukeBox2', 1280, 50, '000000')
+	setObjectCamera('JukeBox2', 'other')
+	addLuaSprite('JukeBox2', true)
+        setProperty('JukeBox2.alpha', 0)
+
+	--the text for the "Now Playing" bit
+	makeLuaText('JukeBoxText2', 'Now Playing:', 1280, 895-IntroTagWidth, 545)
+	setTextAlignment('JukeBoxText2', 'left')
+	setObjectCamera('JukeBoxText2', 'other')
+	setTextSize('JukeBoxText2', 40)
+	addLuaText('JukeBoxText2')
+        setProperty('JukeBoxText2.alpha', 0)
+    setTextFont("JukeBoxText2","OskariG2Medium.otf")
+        
+	
+
 end
 
 
@@ -98,6 +117,17 @@ function onEvent(name, value1, value2)
 		
 		runTimer('JukeBoxWait', 3, 1)
 	end
+    if name == 'IntroMusic' then
+        --reused code from SongIntro.lua by SirTopHat
+		setTextString('JukeBoxText2',value1)
+		-- Inst and Vocals start playing, songPosition = 0
+                doTweenAlpha('Trans1', 'JukeBox2', 0.8, 0.5, 'quadIn')
+                doTweenAlpha('Trans2', 'JukeBoxText2', 1, 0.5, 'quadIn')
+		doTweenX('MoveInSix', 'JukeBox2', 0, 0.5, 'quadIn')
+		doTweenX('MoveInSeven', 'JukeBoxText2', 110, 0.5, 'quadIn')
+		
+		runTimer('JukeBoxWait2', 3, 1)
+	end
 end
 
 function speedBounce(target, duration)
@@ -146,6 +176,12 @@ function onTimerCompleted(tag, loops, loopsLeft)
 		doTweenX('MoveOutTwo', 'JukeBox', -450, 1.5, 'CircInOut')
 		doTweenX('MoveOutThree', 'JukeBoxText', -450, 1.5, 'CircInOut')
 		doTweenX('MoveOutFour', 'JukeBoxSubText', -450, 1.5, 'CircInOut')
+	end
+	if tag == 'JukeBoxWait2' then
+		doTweenX('MoveOutSix', 'JukeBox2', -450, 0.5, 'quadIn')
+		doTweenX('MoveOutSeven', 'JukeBoxText2', -450, 0.5, 'quadIn')
+                doTweenAlpha('Trans3', 'JukeBox2', 0, 0.5, 'quadIn')
+                doTweenAlpha('Trans4', 'JukeBoxText2', 0, 0.5, 'quadIn')
 	end
 end
 

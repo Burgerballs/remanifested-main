@@ -1,116 +1,124 @@
 {
 	"dialogue": [
 		{
-			"expression": "manifest",
-			"text": "YOU",
-			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "skyex-dialogue"
-		},
-		{
+			"portrait": "gf",
+			"boxState": "normal",
 			"expression": "talk",
-			"text": "Ow... For fucks sake did you really have to scratch me?",
-			"boxState": "normal",
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "gf"
+			"text": "Jesus christ did you really have to scratch me like that?"
 		},
 		{
-			"expression": "manifest",
-			"text": "YOU ARE THE BIGGEST BITCH I HAVE EVER\\nMET!!!",
-			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "skyex-dialogue"
-		},
-		{
-			"expression": "manifest",
-			"text": "Oh look who the rude one is now!",
+			"portrait": "Manifest",
 			"boxState": "normal",
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "gf"
-		},
-		{
-			"expression": "manifest",
-			"text": "SHUT UP SHUT UP SHUT UP!",
-			"boxState": "normal",
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "skyex-dialogue"
-		},
-		{
-			"expression": "manifest",
-			"text": "YOU DO NOT DESERVE HIM!",
-			"boxState": "normal",
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "skyex-dialogue"
-		},
-		{
-			"expression": "manifest",
-			"text": "What do you call this then manifest EX? You should go manifest some bitches instead",
-			"boxState": "normal",
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "gf"
-		},
-		{
 			"expression": "talk",
-			"text": "I'LL MAKE YOU EAT THOSE, YOU RED HEAD\\nSUCCUBUS!",
-			"boxState": "normal",
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "skyex-dialogue"
+			"text": "I am fucking tired of this"
 		},
 		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
 			"expression": "talk",
-			"text": "Go shift to genshin impact, bitch :3",
-			"boxState": "normal",
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "gf"
+			"text": "Of what? We haven't done anything but sing."
 		},
 		{
-			"expression": "shocked",
-			"text": "YOU ARE NOT HELPING!!!",
-			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "bf"
-		},
-		{
+			"portrait": "Manifest",
+			"boxState": "normal",
 			"expression": "talk",
-			"text": "THIS IS WHY SHE IS NOT MEANT TO BE YOURS. YOU SEE WHY I MUST DO THIS MY SWEET BOYFRIEND?",
-			"boxState": "normal",
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "skyex-dialogue"
+			"text": "You've done so much more to hurt me"
 		},
 		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
 			"expression": "talk",
-			"text": "I AM HELPING YOU!!!",
-			"boxState": "normal",
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "skyex-dialogue"
+			"text": "We have literally never spoken to you in our lives"
 		},
 		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "manifest",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "ARE YOU REALLY THIS STUPID!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "manifest",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "THAT LITTLE BLUE BASTARD IS THE ROOT OF MY PROBLEMS"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
 			"expression": "talk",
-			"text": "YOU WILL NEVER HAVE TO WORRY ABOUT THIS RUDE BITCH EVER AGAIN",
-			"boxState": "normal",
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "skyex-dialogue"
+			"text": "Hmm... Nah you're just jealous"
 		},
 		{
-			"expression": "shocked",
-			"text": "beep?",
-			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "Manifest",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "SHUT UP YOU BITCH"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Go shift to genshin impact bitch"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "manifest",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "SUCK MY DICK YOU RED HAIRED\\nSUCCUBUS"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok are we just gonna sit here arguing or are we gonna get back to the game"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "manifest",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "THIS IS NO FUCKING GAME"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "manifest",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "Y'KNOW WHAT THAT'S IT"
+		},
+		{
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "manifest",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "I'M GONNA FUCKING KILL YOU"
 		}
 	]
 }
