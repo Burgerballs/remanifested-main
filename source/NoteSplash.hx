@@ -43,9 +43,7 @@ class NoteSplash extends FlxSprite
 		}
 
 		if (textureLoaded != texture)
-		{
 			loadAnims(texture);
-		}
 		colorSwap.hue = hueColor;
 		colorSwap.saturation = satColor;
 		colorSwap.brightness = brtColor;
@@ -71,9 +69,8 @@ class NoteSplash extends FlxSprite
 
 	override function update(elapsed:Float)
 	{
-		if (animation.curAnim != null)
-			if (animation.curAnim.finished)
-				kill();
+		if (animation.curAnim != null && animation.curAnim.finished)
+			kill();
 
 		super.update(elapsed);
 	}

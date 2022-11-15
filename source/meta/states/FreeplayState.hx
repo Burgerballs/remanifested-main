@@ -485,6 +485,10 @@ class FreeplayState extends MusicBeatState
 				openSubState(new ResetScoreSubState(songs[curSelected].songName, curDifficulty, songs[curSelected].songCharacter));
 				FlxG.sound.play(Paths.sound('scrollMenu'));
 			}
+
+		if (CoolUtil.difficulties.length == 1) {
+			diffText.text = CoolUtil.difficultyString();
+		}
 		super.update(elapsed);
 	}
 

@@ -52,6 +52,7 @@ class ClientPrefs
 		'healthgain' => 1.0,
 		'healthloss' => 1.0,
 		'instakill' => false,
+		'un4giving' => false,
 		'practice' => false,
 		'botplay' => false,
 		'opponentplay' => false

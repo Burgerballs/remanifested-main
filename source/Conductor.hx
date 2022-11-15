@@ -30,9 +30,7 @@ class Conductor
 
 	public static var bpmChangeMap:Array<BPMChangeEvent> = [];
 
-	public function new()
-	{
-	}
+	public function new() {}
 
 	public static function judgeNote(note:Note, diff:Float = 0):Rating // die
 	{
@@ -40,9 +38,7 @@ class Conductor
 		for (i in 0...data.length - 1) // skips last window (Shit)
 		{
 			if (diff <= data[i].hitWindow)
-			{
 				return data[i];
-			}
 		}
 		return data[data.length - 1];
 	}

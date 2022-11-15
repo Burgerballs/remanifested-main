@@ -214,6 +214,7 @@ class PlayState extends MusicBeatState
 	public var healthGain:Float = 1;
 	public var healthLoss:Float = 1;
 	public var instakillOnMiss:Bool = false;
+	public var un4givin:Bool = false;
 	public var cpuControlled:Bool = false;
 	public var practiceMode:Bool = false;
 
@@ -328,13 +329,13 @@ class PlayState extends MusicBeatState
 		ratingsData.push(new Rating('sick')); // default rating
 
 		var rating:Rating = new Rating('good');
-		rating.ratingMod = 0.7;
+		rating.ratingMod = 0.5;
 		rating.score = 200;
 		rating.noteSplash = false;
 		ratingsData.push(rating);
 
 		var rating:Rating = new Rating('bad');
-		rating.ratingMod = 0.4;
+		rating.ratingMod = 0.2;
 		rating.score = 100;
 		rating.noteSplash = false;
 		ratingsData.push(rating);
@@ -358,6 +359,7 @@ class PlayState extends MusicBeatState
 		healthGain = ClientPrefs.getGameplaySetting('healthgain', 1);
 		healthLoss = ClientPrefs.getGameplaySetting('healthloss', 1);
 		instakillOnMiss = ClientPrefs.getGameplaySetting('instakill', false);
+		un4givin = ClientPrefs.getGameplaySetting('un4giving', false);
 		practiceMode = ClientPrefs.getGameplaySetting('practice', false);
 		cpuControlled = ClientPrefs.getGameplaySetting('botplay', false);
 
@@ -3484,11 +3486,11 @@ class PlayState extends MusicBeatState
 		note.rating = daRating.name;
 		score = daRating.score;
 
-		if (daRating.name == 'shit' || daRating.name == 'bad')
+		if (daRating.name == 'shit' && un4givin || daRating.name == 'bad' && un4givin)
 			{
 				noteMiss(note);
 				health -= note.missHealth;
-			} else {
+		} else {
 				if (!note.ratingDisabled)
 					daRating.increase();
 		
