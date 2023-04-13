@@ -1,1 +1,1 @@
-hello, this is the sky remanifested v2 source code, i am not even gonna begin, the code is really messy and you should not use it as a base for anything. as my final farewell to sky remanifested, i have now puiblicized the source code again - Burgerballs (13th Apr 2023)
+Hello, this is the Sky Remanifested v2 source code, I am not even gonna begin, the code is really messy and you should not use it as a base for anything. as my final farewell to Sky Remanifested, I have now puiblicized the source code Again - Burgerballs (13th Apr 2023)
